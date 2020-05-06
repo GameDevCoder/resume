@@ -57,6 +57,10 @@ education:
       massa. Cumsociis natoque penatibus et magnis dis parturient montes,
       nasceturridiculus mus. Donec quam felis, ultricies nec, pellentesque
       eu,pretium quis, sem.  - Bullet point  - Bullet point
+  - degree:
+    university: Digipen
+    time:
+    details: 'Vancouver, Canada'
 experiences:
   - role: Lead Developer
     time:
