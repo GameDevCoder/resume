@@ -41,6 +41,7 @@ career-profile:
 education:
   - degree: MSc in Computer Science
     university: University of London
+    location:
     time:
     details: >-
       Describe your study here lorem ipsum dolor sit amet,
@@ -50,6 +51,7 @@ education:
       eu,pretium quis, sem.  - Bullet point  - Bullet point
   - degree: BSc in Applied Mathematics
     university: Bristol University
+    location:
     time:
     details: >-
       Describe your study here lorem ipsum dolor sit amet,
@@ -58,7 +60,8 @@ education:
       nasceturridiculus mus. Donec quam felis, ultricies nec, pellentesque
       eu,pretium quis, sem.  - Bullet point  - Bullet point
   - degree: The Art and Science of <br/> 2D & 3D <br/> Video Game Programming <br/> (Foundation Year)
-    university: Digipen <br/> Vancouver, Canada
+    university: Digipen
+    location: Vancouver, Canada
     time: 1997 ~ 1998
     details:
 experiences:
