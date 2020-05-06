@@ -10,10 +10,11 @@
     {% for graduation in education %}
     <div class="item">
       <div style="clear: both">
-        <h4 class="meta" style="text-align:left;float:left;">{{ graduation.university }}</h4>
-        <h6 class="location" style="text-align:right;float:right;">{{ graduation.location }}</h6>
-        <h5 class="degree" style="text-align:left;float:left;">{{ graduation.degree }}</h5>
-        <div class="time" style="text-align:left;float:left;">{{ graduation.time }}</div>
+        <h4 class="meta">{{ graduation.university }}</h4>
+        <h6 class="location">{{ graduation.location }}</h6>
+        <h5 class="degree">{{ graduation.degree }}</h5>
+        <div class="time">{{ graduation.time }}</div>
+        
       </div>
     </div><!--//item-->
     {% endfor %}
