@@ -58,9 +58,9 @@ education:
       nasceturridiculus mus. Donec quam felis, ultricies nec, pellentesque
       eu,pretium quis, sem.  - Bullet point  - Bullet point
   - degree: The Art and Science of <br/> 2D & 3D <br/> Video Game Programming <br/> (Foundation Year)
-    university: Digipen
+    university: Digipen <br/> Vancouver, Canada
     time: 1997 ~ 1998
-    details: 'Vancouver, Canada'
+    details:
 experiences:
   - role: Lead Developer
     time:
