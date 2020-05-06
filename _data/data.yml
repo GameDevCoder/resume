@@ -57,9 +57,9 @@ education:
       massa. Cumsociis natoque penatibus et magnis dis parturient montes,
       nasceturridiculus mus. Donec quam felis, ultricies nec, pellentesque
       eu,pretium quis, sem.  - Bullet point  - Bullet point
-  - degree: The Art and Science of 2D & 3D Video Game Programming <br/> (One Year)
+  - degree: The Art and Science of <br/> 2D & 3D Video Game Programming <br/> (One Year)
     university: Digipen
-    time:
+    time: 1998-04
     details: 'Vancouver, Canada'
 experiences:
   - role: Lead Developer
