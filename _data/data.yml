@@ -50,10 +50,22 @@ education:
       nasceturridiculus mus. Donec quam felis, ultricies nec, pellentesque
       eu,pretium quis, sem.  - Bullet point  - Bullet point
   - degree: The Art and Science of <br/> 2D & 3D <br/> Video Game Programming <br/> (Foundation Year)
-    university: Digipen
+    university: '[Digipen](https://www.digipen.edu/about/our-history){: target="_blank"}'
     location: 'Vancouver, Canada'
     time: 1997 ~ 1998
-    details:
+    details: >-
+      I studied game development programming at [DigiPen in Vancouver, British Columbia](https://www.digipen.edu/about/our-history){: target="_blank"} for the first year. 
+      Technology, complex algorithms and mathematics were routinely studied.
+      That knowledge was then applied to theoretical situations and programming applications.
+      
+      Example: Mario and Luigi are sitting inside cannons on oppposite sides of the screen.
+      The cannons have slightly different angles. What power levels do the cannons need to be
+      and when does each cannon need to be fired in order to get Mario and Luigi to meet mid-air?
+      
+      I found the course to be both fun and challenging.
+      
+      As the school was migrating to the United States, I decided to continue my studies 
+      on my own before pursuing a career in the games industry overseas.
 experiences:
   - role: Lead Developer
     time:
