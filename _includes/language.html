@@ -40,17 +40,25 @@
         {% for language in languages.spoken-languages %}
         <div class="item">
             
-            <h3 class="language-idom">
+            <span class="language-span">
+            <h4 class="language-idom">
+                {{ language.idiom }}
+            <!--
             <span class="language-idiom-span">
                 {{ language.idiom }}
             </span>
-            </h3>
+            -->
+            </h4>
             
             <h5 class="language-level">
+                {{ language.level }}
+            <!--
             <span class=lanugage-level-span>
                 {{ language.level }}
             </span>
+            -->
             </h5>
+            </span>
             
     
 <!--          <h5 class="level-title">{{ language.idiom }}</h5> <div class="lang-desc">{{ language.level }}</div>
