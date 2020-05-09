@@ -1,7 +1,9 @@
-sidebar:
-  enable_profile: true
-  enable_about: true
-  enable_contact: true
-  enable_education: false
-  enable_language: true
+mainpage:
+  enable_career_profile: true
+  enable_education: true
+  enable_experiences: true
+  enable_projects: true
+  enable_publications: true
+  enable_skills: true
+  enable_languages: true
   enable_interests: true
