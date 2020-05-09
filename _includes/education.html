@@ -1,6 +1,8 @@
 {% assign education = site.data.education_history.education %}
 {% assign sidebar = site.data.page_sidebar.sidebar %}
+
 {% if education %}
+
   {% if sidebar.enable_education %}
   <div class="education-container container-block">
 
@@ -22,7 +24,6 @@
   </div><!--//education-container-->
   {% else %}
   <section class="section educations-section">
-
     <h2 class="section-title">
       <span class="fa-stack fa-xs">
         <i class="fas fa-circle fa-stack-2x"></i>
@@ -43,6 +44,7 @@
 
         <div class="university">{{ graduation.university }}</div>
         <div class="university">{{ graduation.location }}</div>
+        
       </div><!--//meta-->
 
       {% if graduation.details %}
@@ -56,4 +58,5 @@
 
   </section><!--//section-->
   {% endif %}
+  
 {% endif %}
