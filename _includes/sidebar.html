@@ -6,8 +6,8 @@
   {% if sidebar.enable_profile %}
       <div class="profile-container">
     
-        {% if profile.name %}
-        <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+        {% if profile.avatar %}
+        <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ profile.avatar }}" alt="profile picture" />
         {% endif %}
     
         {% if profile.name %}
