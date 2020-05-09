@@ -1,0 +1,7 @@
+sidebar:
+  enable_profile: true
+  enable_about: true
+  enable_contact: true
+  enable_education: false
+  enable_language: true
+  enable_interests: true
