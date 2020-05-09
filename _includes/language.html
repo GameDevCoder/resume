@@ -37,7 +37,7 @@
 
         <div class="languageset">
 
-        {%- for language in languages.spoken-languages -%}
+        {% for language in languages.spoken-languages %}
         <div class="item">
             
             <h5 class="language-idom" style="text-align:left;float:left;">
@@ -49,7 +49,7 @@
             -->
             </h5>
             
-            <h5 class="language-level" style="text-align:left;float:left;">
+            <h5 class="language-level" style="text-align:right;float:right;">
                 : {{ language.level }}
             <!--
             <span class=lanugage-level-span>
@@ -57,7 +57,7 @@
             </span>
             -->
             </h5>
-<!--            <hr style="clear:both;"/>  -->
+            <hr style="clear:right;"/>
             
     
 <!--          <h5 class="level-title">{{ language.idiom }}</h5> <div class="lang-desc">{{ language.level }}</div>
@@ -69,7 +69,7 @@
           </div><!--//level-bar-->
     
         </div><!--//item-->
-        {%- endfor -%}
+        {% endfor %}
 
         </div>
 
