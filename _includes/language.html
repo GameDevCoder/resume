@@ -1,4 +1,4 @@
-{% assign languages = site.data.language_data.spoken-languages %}
+{% assign languages = site.data.language_data.languages %}
 {% assign sidebar = site.data.sidebar_data.sidebar %}
 {% assign mainpage = site.data.mainpage_data.mainpage %}
 
@@ -12,7 +12,7 @@
       </h2>
     
       <ul class="list-unstyled interests-list">
-        {%for language in languages %}
+        {%for language in languages.spoken-languages %}
         <li>
           {{ language.idiom }}
           <span class="lang-desc">({{ language.level }})</span>
@@ -37,7 +37,7 @@
 
         <div class="languageset">
 
-        {% for language in languages %}
+        {% for language in languages.spoken-languages %}
         <div class="item">
     
           <h3 class="level-title">{{ language.idiom }}</h3>
