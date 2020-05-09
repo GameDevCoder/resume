@@ -1,19 +1,62 @@
-{% assign languages = site.data.data.sidebar.languages %}
+{% assign languages = site.data.language_data.spoken-languages %}
+{% assign sidebar = site.data.sidebar_data.sidebar %}
+{% assign mainpage = site.data.mainpage_data.mainpage %}
+
 {% if languages %}
-<div class="languages-container container-block">
 
-  <h2 class="container-block-title">
-    Languages
-  </h2>
+    {% if sidebar.enable_language %}
+    <div class="languages-container container-block">
+    
+      <h2 class="container-block-title">
+        Languages
+      </h2>
+    
+      <ul class="list-unstyled interests-list">
+        {%for language in languages %}
+        <li>
+          {{ language.idiom }}
+          <span class="lang-desc">({{ language.level }})</span>
+        </li>
+        {% endfor %}
+      </ul>
+    
+    </div><!--//languages-->
+    {% endif %}
+    
+    {% if mainpage.enable_language %}
+    
+    <section class="language-section section">
 
-  <ul class="list-unstyled interests-list">
-    {%for language in languages %}
-    <li>
-      {{ language.idiom }}
-      <span class="lang-desc">({{ language.level }})</span>
-    </li>
-    {% endfor %}
-  </ul>
+        <h2 class="section-title">
+            <span class="fa-stack fa-xs">
+              <i class="fas fa-circle fa-stack-2x"></i>
+              <i class="fas fa-comment fa-stack-1x fa-inverse"></i>
+            </span>
+        {{ languages.title }}
+        </h2>
 
-</div><!--//interests-->
+        <div class="languageset">
+
+        {% for language in languages %}
+        <div class="item">
+    
+          <h3 class="level-title">{{ language.idiom }}</h3>
+          <span class="lang-desc">({{ language.level }})</span>
+          
+ <!--   
+          <div class="level-bar">
+            <div class="level-bar-inner" data-level="{{ skill.level }}">
+            </div>
+          </div><!--//level-bar-->
+    
+        </div><!--//item-->
+        {% endfor %}
+
+        </div>
+
+    </section><!--//skills-section-->
+    
+    {% endif %}
+        
+    
 {% endif %}
