@@ -27,7 +27,7 @@ sidebar:
       link:
     - item: 'Creative Hobby </br> (Plastic Models, Papercraft etc)'
       link:
-    - item: 'Outdoors & Adventure Sports <br/> (Camping, Skiing, Rafting)'
+    - item: 'Outdoor Activities <br/> (Hiking, Camping, Skiing etc)'
       link:
 career-profile:
   title: Career Profile
@@ -39,16 +39,6 @@ career-profile:
     mus.Donec quam felis, ultricies nec, pellentesque eu.Second paragraph if
     required.
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    location:
-    time:
-    details: >-
-      Describe your study here lorem ipsum dolor sit amet,
-      consectetueradipiscing elit. Aenean commodo ligula eget dolor. Aenean
-      massa. Cumsociis natoque penatibus et magnis dis parturient montes,
-      nasceturridiculus mus. Donec quam felis, ultricies nec, pellentesque
-      eu,pretium quis, sem.  - Bullet point  - Bullet point
   - degree: The Art and Science of <br/> 2D & 3D <br/> Video Game Programming <br/> (Foundation Year)
     university: '[Digipen](https://www.digipen.edu/about/our-history){: target="_blank"}'
     location: 'Vancouver, Canada'
