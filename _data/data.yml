@@ -58,8 +58,9 @@ education:
       on my own before pursuing a career in the games industry overseas.
 experiences:
   - role: Lead Developer
-    time:
-    company: 'Startup Hubs, San Francisco'
+    time: 1997 ~ 1998
+    company: 'Startup Hubs'
+    location: 'San Francisco'
     details: >-
       Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
@@ -71,7 +72,8 @@ experiences:
       beatae vitae dicta sunt explicabo.  - Bullet point  - Bullet point
   - role: Senior Software Engineer
     time:
-    company: 'Google, London'
+    company: 'Google'
+    location: 'London'
     details: >-
       Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
@@ -80,7 +82,8 @@ experiences:
       point  - Bullet point
   - role: UI Developer
     time:
-    company: 'Amazon, London'
+    company: 'Amazon'
+    location: 'London'
     details: >-
       Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
