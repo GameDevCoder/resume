@@ -1,7 +1,9 @@
-spoken-languages:
-    - idiom: English
-      level: Native
-    - idiom: Japanese
-      level: Daily Conversation
-    - idiom: French
-      level: Basic
+languages:
+    title: 'Languages'
+    spoken-languages:
+        - idiom: English
+          level: Native
+        - idiom: Japanese
+          level: Daily Conversation
+        - idiom: French
+          level: Basic
