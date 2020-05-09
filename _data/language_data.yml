@@ -1,21 +1,3 @@
-personal-profile:
-  name: My Name Here
-  tagline: Experienced Veteran </br> Game Developer
-  avatar: war_beagle.png
-  
-personal-contact:
-  email: gamedevcoder@protonmail.com
-  phone:
-  website: gamedevcoder.github.io/portfolio
-  linkedin: gamedevcoder
-  github: gamedevcoder
-  gitlab:
-  bitbucket:
-  twitter: gamedevcoder1
-  stack-overflow:
-  codewars:
-  goodreads:
-  
 spoken-languages:
     - idiom: English
       level: Native
@@ -23,11 +5,3 @@ spoken-languages:
       level: Daily Conversation
     - idiom: French
       level: Basic
-
-personal-interests:
-    - item: Movies & Games
-      link:
-    - item: 'Creative Hobby </br> (Plastic Models, Papercraft etc)'
-      link:
-    - item: 'Outdoor Activities <br/> (Hiking, Camping, Skiing etc)'
-      link:
