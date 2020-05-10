@@ -81,7 +81,7 @@ p {
     }
     .contact-list {
         .fas, .fab {
-            margin-right: 0px;
+            margin-right: 5px;
             font-size: 18px;
             vertical-align: middle;
         }
@@ -120,6 +120,11 @@ p {
             margin-bottom: 0px;
             margin-top: 0;
         }
+        .location {
+            color: rgba(256, 256, 256, 0.6);
+            font-weight: 500;
+            margin-bottom: 0px;
+        }
         .time {
             color: rgba(256, 256, 256, 0.6);
             font-weight: 500;
@@ -143,6 +148,16 @@ p {
     }
 
     .interests-list {
+        margin-bottom: 0;
+        li {
+            margin-bottom: 10px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+    
+    .activities-list {
         margin-bottom: 0;
         li {
             margin-bottom: 10px;
