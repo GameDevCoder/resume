@@ -26,7 +26,8 @@ personal-interests:
     - title: 'Movies & Games'
       link:
       desc: 'Genres: SF, Fantasy, Action, Puzzles & Mysteries'
-      details:
+      details:  >-
+      Lorem ipsum dolor sit amet
     - title: 'Technology'
       link:
       desc: 'PC Tech, 3D Graphics, Programming, AI and Machine Learning'
