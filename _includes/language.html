@@ -3,25 +3,6 @@
 {% assign mainpage = site.data.mainpage_data.mainpage %}
 
 {% if languages %}
-
-    {% if sidebar.enable_language %}
-    <div class="languages-container container-block">
-    
-      <h2 class="container-block-title">
-        Languages
-      </h2>
-    
-      <ul class="list-unstyled interests-list">
-        {%for language in languages.spoken-languages %}
-        <li>
-          {{ language.idiom }}
-          <span class="lang-desc">({{ language.level }})</span>
-        </li>
-        {% endfor %}
-      </ul>
-    
-    </div><!--//languages-->
-    {% endif %}
     
     {% if mainpage.enable_language %}
     
@@ -42,38 +23,20 @@
             
             <h5 class="language-idom" style="text-align:left;float:left;">
                 {{ language.idiom }}
-            <!--
-            <span class="language-idiom-span">
-                {{ language.idiom }}
-            </span>
-            -->
             </h5>
             
             <h5 class="language-level" style="text-align:left;float:left;padding:5px;margin:5px;">
                - {{ language.level }}
-            <!--
-            <span class=lanugage-level-span>
-                {{ language.level }}
-            </span>
-            -->
             </h5>
-            <hr style="visibility:hidden;clear:both;"/>
             
-    
-<!--          <h5 class="level-title">{{ language.idiom }}</h5> <div class="lang-desc">{{ language.level }}</div>
-          
-    
-          <div class="level-bar">
-            <div class="level-bar-inner" data-level="{{ skill.level }}">
-            </div>
-          </div><!--//level-bar-->
+            <hr style="visibility:hidden;clear:both;"/>
     
         </div><!--//item-->
         {% endfor %}
 
         </div>
 
-    </section><!--//skills-section-->
+    </section><!--//language-section-->
     
     {% endif %}
         
