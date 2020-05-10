@@ -17,17 +17,29 @@ personal-contact:
   goodreads:
 
 personal-interests:
-    title: "Hobbies & Interests"
+    title: "Activities & Interests"
+    intro: >-
+    You can list your hobbies and activities in this section.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et
+    ligula in nunc bibendum fringilla a eu lectus.
     interest-list:
-    - item: 'Movies & Games'
+    - title: 'Movies & Games'
       link:
-      desc:
+      desc: 'Genre: SF, Fantasy, Action, Puzzles & Mysteries'
       details:
-    - item: 'Creative Hobby'
+    - title: 'Technology'
+      link:
+      desc: 'PC Tech, 3D Graphics, Programming, AI and Machine Learning'
+      details: >-
+      Lorem ipsum dolor sit amet
+    - title: 'Creative Hobby'
       link:
       desc: 'Plastic Models, Papercraft'
-      details:
-    - item: 'Outdoor Activities' 
+      details: >-
+      Lorem ipsum dolor sit amet
+    - title: 'Sports' 
       link:
-      desc: 'Hiking, Camping, Skiing'
-      details:
+      desc: 'Baseball, Hockey, Skiing, Archery'
+      details: >-
+      Lorem ipsum dolor sit amet
+
