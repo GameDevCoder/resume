@@ -1,0 +1,81 @@
+{% assign languages = site.data.language_data.languages %}
+{% assign sidebar = site.data.sidebar_data.sidebar %}
+{% assign mainpage = site.data.mainpage_data.mainpage %}
+
+{% if languages %}
+
+    {% if sidebar.enable_language %}
+    <div class="languages-container container-block">
+    
+      <h2 class="container-block-title">
+        Languages
+      </h2>
+    
+      <ul class="list-unstyled interests-list">
+        {%for language in languages.spoken-languages %}
+        <li>
+          {{ language.idiom }}
+          <span class="lang-desc">({{ language.level }})</span>
+        </li>
+        {% endfor %}
+      </ul>
+    
+    </div><!--//languages-->
+    {% endif %}
+    
+    {% if mainpage.enable_language %}
+    
+    <section class="language-section section">
+
+        <h2 class="section-title">
+            <span class="fa-stack fa-xs">
+              <i class="fas fa-circle fa-stack-2x"></i>
+              <i class="fas fa-comment fa-stack-1x fa-inverse"></i>
+            </span>
+        {{ languages.title }}
+        </h2>
+
+        <div class="languageset">
+
+        {% for language in languages.spoken-languages %}
+        <div class="item">
+            
+            <h5 class="language-idom" style="text-align:left;float:left;">
+                {{ language.idiom }}
+            <!--
+            <span class="language-idiom-span">
+                {{ language.idiom }}
+            </span>
+            -->
+            </h5>
+            
+            <h5 class="language-level" style="text-align:left;float:left;padding:5px;margin:5px;">
+               - {{ language.level }}
+            <!--
+            <span class=lanugage-level-span>
+                {{ language.level }}
+            </span>
+            -->
+            </h5>
+            <hr style="visibility:hidden;clear:both;"/>
+            
+    
+<!--          <h5 class="level-title">{{ language.idiom }}</h5> <div class="lang-desc">{{ language.level }}</div>
+          
+    
+          <div class="level-bar">
+            <div class="level-bar-inner" data-level="{{ skill.level }}">
+            </div>
+          </div><!--//level-bar-->
+    
+        </div><!--//item-->
+        {% endfor %}
+
+        </div>
+
+    </section><!--//skills-section-->
+    
+    {% endif %}
+        
+    
+{% endif %}
