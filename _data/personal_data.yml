@@ -15,19 +15,11 @@ personal-contact:
   stack-overflow:
   codewars:
   goodreads:
-  
-spoken-languages:
-    - idiom: English
-      level: Native
-    - idiom: Japanese
-      level: Daily Conversation
-    - idiom: French
-      level: Basic
 
 personal-interests:
-    title: Hobbies & Interests
-    list:
-    - item: Movies & Games
+    title: "Hobbies & Interests"
+    interest-list:
+    - item: 'Movies & Games'
       link:
       desc:
       details:
