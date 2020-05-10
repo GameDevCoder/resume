@@ -9,6 +9,8 @@
     <h2 class="container-block-title">
       Education
     </h2>
+    
+    <!--
 
     {% for graduation in education %}
     <div class="item">
@@ -23,7 +25,24 @@
       <h5 class="degree">{{ graduation.degree }}</h5>
       <div class="time">{{ graduation.time }}</div>
         
-    </div><!--//item-->
+    </div><!--//item--
+    
+    -->
+    
+    
+    <ul class="list-unstyled education-list">
+        {%for graduation in education %}
+        <li>
+          {{ graduation.university }}
+          <span class="grad-loc">({{ graduation.location }})</span>
+        </li>
+        <h5 class="degree">{{ graduation.degree }}</h5>
+        <div class="time">{{ graduation.time }}</div>
+        {% endfor %}
+    </ul>
+    
+    
+    
     {% endfor %}
 
   </div><!--//education-container-->
