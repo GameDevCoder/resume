@@ -7,8 +7,8 @@ experiences:
     details: >-
       <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
       <p>Recently, I have been working on Project Awakening, programming Art Pipeline tools such as:</p>
-      &nbsp;
-      &nbsp;
+      <br/>
+      <br/>
       * Studio Library (Perforce Support, Relative Pose Support)<br/>
       &nbsp;
       * Pyblish (Model Asset QA Check Support)<br/>
