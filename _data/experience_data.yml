@@ -1,17 +1,26 @@
 experiences:
-  - role: Lead Developer
-    time: 1997 ~ 1998
-    company: 'Startup Hubs'
-    location: 'San Francisco'
+  - role: Technical Artist
+    time: 2017/09 ~ 2020/Present
+    company: 'Cygames'
+    location: 'Shibuya, Tokyo'
+    link: https://social-drum.cloudvent.net/clients/cygames/
     details: >-
-      Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
-      penatibus et magnis dis parturient montes,nascetur ridiculus mus. Donec
-      quam felis, ultricies nec,pellentesque eu, pretium quis, sem. Nulla
-      consequat massa quisenim. Donec pede justo. Sed ut perspiciatis unde omnis
-      iste natuserror sit voluptatem accusantium doloremque laudantium, totam
-      remaperiam, eaque ipsa quae ab illo inventore veritatis et quasiarchitecto
-      beatae vitae dicta sunt explicabo.  - Bullet point  - Bullet point
+      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.
+      Recently, I have been working on Project Awakening, programming Art Pipeline tools such as:</p>
+      - Bulletpoint Studio Library (Perforce Support, Relative Pose Support),
+      - Bulletpoint Pyblish (Model Asset QA Check Support),
+      - Bulletpoint Maya (Extension and maintenance of in-house tools, re-compiling python modules for Maya 2015~2018)
+      
+      <p>I have assisted with Unreal Engine material devleopment:</p>
+      - Bulletpoint Character hair shader improvement
+      - Bulletpooint Shader debugging on the PS4 development console.
+      
+      <p>Some of my time at Cygames was spent working on localization efforts for the PS4 release of Anubis Zone of the Enders - M∀RS.</p>
+
+      <p>My tasks included proof reading and editing the games English text, reviewing in-game spoken English dialog and written English text displayed in the game’s UI.</p>
+        
+      <p>I also helped enter localized game text for the French, German, Italian and Spanish languages using an in-house localization editor tool.</p>
+      
   - role: Senior Software Engineer
     time:
     company: 'Google'
