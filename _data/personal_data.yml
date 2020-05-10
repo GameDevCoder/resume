@@ -22,7 +22,7 @@ personal-interests:
     You can list your hobbies and activities in this section.
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et
     ligula in nunc bibendum fringilla a eu lectus.
-    interest-list:
+    activity-list:
     - title: 'Movies & Games'
       link:
       desc: 'Genres: SF, Fantasy, Action, Puzzles & Mysteries'
