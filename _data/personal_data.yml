@@ -25,6 +25,8 @@ spoken-languages:
       level: Basic
 
 personal-interests:
+    title: Hobbies & Interests
+    list:
     - item: Movies & Games
       link:
       desc:
