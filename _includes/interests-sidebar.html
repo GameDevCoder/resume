@@ -11,12 +11,12 @@
       </h2>
     
       <ul class="list-unstyled interests-list">
-        {% for interest in interests.interests-list %}
+        {% for interest in interests.activity-list %}
     
           {% if interest.link %}
-          <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+          <li><a href="{{ interest.link }}">{{ interest.title }}</a></li>
           {% else %}
-          <li>{{ interest.item }}</li>
+          <li>{{ interest.title }}</li>
           {% endif %}
           
           {% if interest.desc %}
