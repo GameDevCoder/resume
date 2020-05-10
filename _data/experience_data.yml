@@ -5,15 +5,15 @@ experiences:
     location: 'Shibuya, Tokyo'
     link: https://social-drum.cloudvent.net/clients/cygames/
     details: >-
-      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.
-      Recently, I have been working on Project Awakening, programming Art Pipeline tools such as:</p>
-      - Bulletpoint Studio Library (Perforce Support, Relative Pose Support),
-      - Bulletpoint Pyblish (Model Asset QA Check Support),
-      - Bulletpoint Maya (Extension and maintenance of in-house tools, re-compiling python modules for Maya 2015~2018)
+      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
+      <p>Recently, I have been working on Project Awakening, programming Art Pipeline tools such as:</p>
+      - Studio Library (Perforce Support, Relative Pose Support)<br/>
+      - Pyblish (Model Asset QA Check Support)<br/>
+      - Maya (Extension and maintenance of in-house tools, re-compiling python modules for Maya 2015~2018)</br>
       
       <p>I have assisted with Unreal Engine material devleopment:</p>
-      - Bulletpoint Character hair shader improvement
-      - Bulletpooint Shader debugging on the PS4 development console.
+      - Character hair shader improvement
+      - Shader debugging on the PS4 development console
       
       <p>Some of my time at Cygames was spent working on localization efforts for the PS4 release of Anubis Zone of the Enders - M∀RS.</p>
 
