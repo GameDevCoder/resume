@@ -1,4 +1,4 @@
-{% assign interests = site.data.data.sidebar.interests %}
+{% assign interests = site.data.personal_data.personal-interests %}
 {% assign mainpage = site.data.mainpage_data.mainpage %}
 
 {% if interests %}
@@ -13,16 +13,12 @@
         </span>
         {{ interests.title }}
       </h2>
-      
-      <!--
     
-      {% if interests.desc %}
+      {% if interests.intro %}
       <div class="intro">
-          <p>{{ interests.desc }}</p>
+          <p>{{ interests.intro }}</p>
       </div><!--//intro-->
-      <!--
       {% endif %}
-      -->
     
       {% for activity in interests.activity-list %}
         <div class="item">
