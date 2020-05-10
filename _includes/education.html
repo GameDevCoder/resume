@@ -1,28 +1,9 @@
 {% assign education = site.data.education_data.education %}
-{% assign sidebar = site.data.sidebar_data.sidebar %}
+{% assign mainpage = site.data.mainpage_data.mainpage %}
 
 {% if education %}
 
-  {% if sidebar.enable_education %}
-  <div class="education-container container-block">
-
-    <h2 class="container-block-title">
-      Education
-    </h2>
-
-    {% for graduation in education %}
-    <div class="item">
-     
-      <h4 class="meta">{{ graduation.university }}</h4>
-      <h6 class="location">{{ graduation.location }}</h6>
-      <h5 class="degree">{{ graduation.degree }}</h5>
-      <div class="time">{{ graduation.time }}</div>
-        
-    </div><!--//item-->
-    {% endfor %}
-
-  </div><!--//education-container-->
-  {% else %}
+  {% if mainpage.enable_education %}
   <section class="section educations-section">
     <h2 class="section-title">
       <span class="fa-stack fa-xs">
