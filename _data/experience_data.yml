@@ -12,7 +12,7 @@ experiences:
              <li> Added Perforce integration to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya.</li>
              <li> Added relative position and relative rotation support, making it possible to apply StudioLibrary poses to characters at Maya world locations other than the origin.</li>
              <li> Created a renaming tool to rename the Studio Library asset folders in order to conform to development naming conventions.</li>
-            <ul>
+            </ul>
         
      <p>  * Pyblish (Model Asset QA Check Support)</p>
      
