@@ -7,7 +7,7 @@ experiences:
     details: >-
      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
      <p>Recently, I have been working on Project Awakening, programming Art Pipeline tools such as:</p>
-     <p>  * Studio Library - A free tool for creating character poses in Autodesk Maya</p>
+     <p>  <b>Studio Library</b> - A free tool for creating character poses in Autodesk Maya</p>
      <div markdown="1">
        - Added Perforce integration to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya.
        + Added relative position and relative rotation support, making it possible to apply StudioLibrary poses to characters at Maya world locations other than the origin.
@@ -15,9 +15,9 @@ experiences:
      </div>
             
         
-     <p>  * Pyblish (Model Asset QA Check Support)</p>
+     <p>  <b>Pyblish</b> - A free tool for validating art model assets according to the specified development conventions</p>
      
-     <p>  * Maya (Extension and maintenance of in-house tools)</p>
+     <p>  <b>Maya</b> - (Extension and maintenance of in-house tools)</p>
      
      <br/> 
      
