@@ -5,5 +5,5 @@ mainpage:
   enable_projects: false
   enable_publications: false
   enable_skills: true
-  enable_language: true
+  enable_language: false
   enable_interests: true
