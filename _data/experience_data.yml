@@ -8,7 +8,7 @@ experiences:
      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
      <p>Recently, I have been working on Project Awakening, programming Art Pipeline tools such as:</p>
      <div markdown="1">
-     + <b>Studio Library</b> - A free tool for creating character poses in Autodesk Maya
+     <b>Studio Library</b> - A free tool for creating character poses in Autodesk Maya
        - Added <b>Perforce integration</b> to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya.
        - Added <b>relative position and relative rotation</b> support, making it possible to apply StudioLibrary poses to characters at Maya world locations other than the origin.
        - Created a <b>renaming tool</b> to rename the Studio Library asset folders in order to conform to development naming conventions.
