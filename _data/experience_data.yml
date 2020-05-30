@@ -7,8 +7,13 @@ experiences:
     details: >-
      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
      <p>Recently, I have been working on Project Awakening, programming Art Pipeline tools such as:</p>
-     <p>  * Studio Library (Perforce Support, Relative Pose Support)</p>
+     <p>  * Studio Library (a free tool for creating character poses in Autodesk Maya)
+            I added Perforce integration to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya.
+            I also added relative position and relative rotation support, making it possible to apply StudioLibrary poses to characters at Maya world locations other than the origin.
+            I created a renaming tool to rename the Studio Library asset folders in order to conform to development naming conventions.</p>
+            
      <p>  * Pyblish (Model Asset QA Check Support)</p>
+     
      <p>  * Maya (Extension and maintenance of in-house tools)</p>
      
      <br/> 
