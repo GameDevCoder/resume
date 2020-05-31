@@ -6,19 +6,19 @@ experiences:
     link: https://social-drum.cloudvent.net/clients/cygames/
     details: >-
      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
-     </br>
-     <p>Project Awakening - Art Pipeline Tools Development:</p>
-     <div markdown="1">
+     
+     <p><u>Project Awakening - Art Pipeline Tools Development:<u></p>
      <p><b>Studio Library</b> - A free tool for creating character poses in Autodesk Maya</p>
+     <div markdown="1">
        - Added <b>Perforce integration</b> to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya.
        - Added <b>relative position and relative rotation</b> support, making it possible to apply StudioLibrary poses to characters at Maya world locations other than the origin.
        - Created a <b>renaming tool</b> to rename the Studio Library asset folders in order to conform to development naming conventions.
      </div>
-     </br>
-            
-     <div markdown="1">
+     </br>       
+     
      <p><b>Pyblish</b> - A free tool for validating art assets against the specified development conventions</p>
      <p>Implemented Pyblish for Maya and the following validation checks:</p>
+     <div markdown="1">
       - Model root validation (naming check)
       - Main model validation (namming check)
       - LOD models validation (naming check)
@@ -28,11 +28,12 @@ experiences:
      </div>
      </br>
      
-     <div markdown="1">
      <p><b>In-House Tools</b></p>
      <p>Extension and maintenance of Maya tools</p>
+     <div markdown="1">
      - Substantially improved the performance of a model asset browser
      - Added support for displaying and changing an asset's Autodesk Shotgun task status
+     </div>
      <br/>
      
      <p><u>Technical Artist Team - General Developmet</u></p>
