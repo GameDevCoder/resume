@@ -14,18 +14,55 @@ experiences:
        - Created a <b>renaming tool</b> to rename the Studio Library asset folders in order to conform to development naming conventions.
      </div>
             
-        
-     <p>  <b>Pyblish</b> - A free tool for validating art assets against the specified development conventions</p>
+     <div markdown="1">
+     <b>Pyblish</b> - A free tool for validating art assets against the specified development conventions
+     - Implemented Pyblish for Maya and the following validation checks:
+      - Model root validation (naming check)
+      - Main model validation (namming check)
+      - LOD models validation (naming check)
+      - Collisions model validation (naming check)
+      - Rig joints validation (naming check)
+      - Materials and textures validation (naming check)
+     </div>
      
-     <p>  <b>Maya</b> - (Extension and maintenance of in-house tools)</p>
+     <div markdown="1">
+     <b>In-House Tools</b>
+     Extension and maintenance of Maya tools
+     - Substantially improved the performance of a model asset browser
+     - Added support for displaying and changing an asset's <b>Autodesk Shotgun</b> task status
+     <br/>
      
-     <br/> 
+     <b>Technical Artist Team - General Developmet</b>
+     - Tool logging server
+      - implmented a <b>tool log server</b> using Python (Flask, CherryPy, SQLAlchemy, Jinja2 Postgresql), then upgraded it to <b>Kibana and FluentD</b>
+      - added support for sending tool logs from Maya using PyZMQ (re-compiled for each Maya python version)
+      - added support for sending tool logs from Photoshop
+      - added support for receiving error level and critical level logs in Slack using webhooks
+     </br>
+     
+     <div markdown="1">
+      Information Research - Improvement of quality of Technical Artist development operations (QA tools and documentation)
+      - Source Code Analysis Tools
+       - SonarLint
+       - SonarQube
+      - Coding Style Implementation Tools
+       - Unibeautify
+      - Source Code Documentation Generation Tools
+       - Javascript : Sphinx-JS, TypeDoc
+       - Python: Sphinx , PyCharm Doc Generation
+       - C/C++: Doxygen
+      - Source Code Documentation Integrations for Confluence
+       - Sphinx For Confluence
+       - Doxygen For Confluence
+     </div>
+     </br>
      
      <p>I have assisted with Unreal Engine material devleopment:</p>
      - Character hair shader improvement<br/>
      - Shader debugging on the PS4 development console<br/>
      
      <br/>
+     </div>
       
      <p>Some of my time at Cygames was spent working on localization efforts for the PS4 release of Anubis Zone of the Enders - M∀RS.</p>
 
