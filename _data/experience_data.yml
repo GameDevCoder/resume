@@ -7,7 +7,7 @@ experiences:
     details: >-
      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
      
-     <p><u>Project Awakening - Art Pipeline Tools Development:<u></p>
+     <p><u>Project Awakening - Art Pipeline Tools Development:</u></p>
      <p><b>Studio Library</b> - A free tool for creating character poses in Autodesk Maya</p>
      <div markdown="1">
        - Added <b>Perforce integration</b> to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya.
