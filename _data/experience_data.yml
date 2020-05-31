@@ -14,7 +14,6 @@ experiences:
        - Added <b>relative position and relative rotation</b> support, making it possible to apply StudioLibrary poses to characters at Maya world locations other than the origin.
        - Created a <b>renaming tool</b> to rename the Studio Library asset folders in order to conform to development naming conventions.
      </div>
-     </br>       
      
      <p><b>Pyblish</b> - A free tool for validating art assets against the specified development conventions</p>
      <p>Implemented Pyblish for Maya and the following validation checks:</p>
@@ -26,7 +25,6 @@ experiences:
       - Rig joints validation (naming check)
       - Materials and textures validation (naming check)
      </div>
-     </br>
      
      <p><b>In-House Tools</b></p>
      <p>Extension and maintenance of Maya tools</p>
@@ -34,7 +32,6 @@ experiences:
      - Substantially improved the performance of a model asset browser
      - Added support for displaying and changing an asset's Autodesk Shotgun task status
      </div>
-     <br/>
      
      <p><u>Technical Artist Team - General Developmet</u></p>
      <p><b>Tool logging server</b></p>
@@ -43,7 +40,6 @@ experiences:
       - added support for sending tool logs from Maya using PyZMQ (re-compiled for each Maya python version)
       - added support for sending tool logs from Photoshop
       - added support for receiving error level and critical level logs in Slack using webhooks
-     </br>
      
      <div markdown="1">
       <p><b>Information Research - Improvement of quality of Technical Artist development operations (QA tools and documentation)</b></p>
