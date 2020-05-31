@@ -6,17 +6,19 @@ experiences:
     link: https://social-drum.cloudvent.net/clients/cygames/
     details: >-
      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
-     <p>Recently, I have been working on Project Awakening, programming Art Pipeline tools such as:</p>
+     </br>
+     <p>Project Awakening - Art Pipeline Tools Development:</p>
      <div markdown="1">
-     <b>Studio Library</b> - A free tool for creating character poses in Autodesk Maya
+     <p><b>Studio Library</b> - A free tool for creating character poses in Autodesk Maya</p>
        - Added <b>Perforce integration</b> to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya.
        - Added <b>relative position and relative rotation</b> support, making it possible to apply StudioLibrary poses to characters at Maya world locations other than the origin.
        - Created a <b>renaming tool</b> to rename the Studio Library asset folders in order to conform to development naming conventions.
      </div>
+     </br>
             
      <div markdown="1">
-     <b>Pyblish</b> - A free tool for validating art assets against the specified development conventions
-     - Implemented Pyblish for Maya and the following validation checks:
+     <p><b>Pyblish</b> - A free tool for validating art assets against the specified development conventions</p>
+     <p>Implemented Pyblish for Maya and the following validation checks:</p>
       - Model root validation (naming check)
       - Main model validation (namming check)
       - LOD models validation (naming check)
@@ -24,24 +26,26 @@ experiences:
       - Rig joints validation (naming check)
       - Materials and textures validation (naming check)
      </div>
+     </br>
      
      <div markdown="1">
-     <b>In-House Tools</b>
-     Extension and maintenance of Maya tools
+     <p><b>In-House Tools</b></p>
+     <p>Extension and maintenance of Maya tools</p>
      - Substantially improved the performance of a model asset browser
-     - Added support for displaying and changing an asset's <b>Autodesk Shotgun</b> task status
+     - Added support for displaying and changing an asset's Autodesk Shotgun task status
      <br/>
      
-     <b>Technical Artist Team - General Developmet</b>
-     - Tool logging server
-      - implmented a <b>tool log server</b> using Python (Flask, CherryPy, SQLAlchemy, Jinja2 Postgresql), then upgraded it to <b>Kibana and FluentD</b>
+     <p><u>Technical Artist Team - General Developmet</u></p>
+     <p><b>Tool logging server</b></p>
+      - created a python-based tool log server using Flask, CherryPy, SQLAlchemy and Postgresql
+      - upgraded the tool logging server to use Kibana and FluentD
       - added support for sending tool logs from Maya using PyZMQ (re-compiled for each Maya python version)
       - added support for sending tool logs from Photoshop
       - added support for receiving error level and critical level logs in Slack using webhooks
      </br>
      
      <div markdown="1">
-      Information Research - Improvement of quality of Technical Artist development operations (QA tools and documentation)
+      <p><b>Information Research - Improvement of quality of Technical Artist development operations (QA tools and documentation)</b></p>
       - Source Code Analysis Tools
        - SonarLint
        - SonarQube
