@@ -11,25 +11,28 @@ experiences:
      
      <p><b>Art Pipeline Tools Development</b></p>
      <p>Studio Library - A free tool for creating character poses in Autodesk Maya</p>
+     <p>Extended the tool's functionality to meet the 3D artists needs</p>
      <div markdown="1">
-      - Perforce - Added support to allow the artists to use Perforce direclty from Studio Library.
-      - Relative Poses - Made it possible to apply poses to the character model at locations other than the origin.
-      - Asset Folder Renaming - Created a tool to rename the Studio Library asset folders.
+       - Perforce - Added support to allow the artists to use Perforce direclty from Studio Library.
+       - Relative Poses - Made it possible to apply poses to the character model at locations other than the origin.
+       - Asset Folder Renaming - Created a tool to rename the Studio Library asset folders.
      </div>
      
      <p>Pyblish - A free tool for validating art assets against the specified development conventions</p>
-     <p>Implemented Pyblish for Maya and the following validation checks:</p>
+     <p>Implemented Pyblish for Maya and the following production validation checks:</p>
      <div markdown="1">
-       - Hierarchy Check: For testing character models and rigs for object parenting errors.
-       - Naming Convention Check: Added checks for testing character models and rigs incorrect naming.
+       - Hierarchy Check: Added test to check character models and rigs for object parenting errors.
+       - Naming Convention Check: Added test to check character models and rigs for incorrect naming.
      </div>
      
-     <p>Maya - Extension and maintenance of internal Maya tools</p>
+     <p>Maya - A 3D modeling tool</p>
+     <p>Took over and improved existing internal Maya tool projects</p>
      <div markdown="1">
        - Substantially improved the performance of a model file browser to smoothly display hundreds of files.
        - Added support for displaying and changing a model's Autodesk Shotgun task status.
      </div>
      
+     </br>
      
      <p><b>Unreal Engine Work</b></p>
      <p>Material Development</p>
@@ -48,26 +51,27 @@ experiences:
      <p><b>Localization Work</b></p>
      <p>Language Editing<p>
      <div markdown="1">
-      - Text Proof Reading : reading and editing the game's English text
-      - Spoken Dialog Review - reviewed in-game spoken English dialog
-      - Data Entry - helped enter text data for French, German, Italian and Spanish languages
+       - Text Proof Reading : reading and editing the game's English text.
+       - Spoken Dialog Review - reviewed in-game spoken English dialog.
+       - Data Entry - helped enter text data for French, German, Italian and Spanish languages.
      </div>
      
      <<p><u>Technical Artist Team</u></p>
      <p><b>Internal Development</b></p>
      
      <p>Tool Logging</p>
+     <p>Created a logging system to gather user usage and program errors from internal tool's and scripts</p>
      <div markdown="1">
        - created a python-based tool log server using Flask, CherryPy, SQLAlchemy and Postgresql
        - upgraded the logging tool server to use Kibana and FluentD
-       - added support for sending tool logs from Maya using PyZMQ
-       - added support for sending tool logs from Photoshop
-       - added support for receiving error level and critical level logs in Slack using webhooks
+       - added support for sending logs from Maya tools using PyZMQ
+       - added support for sending logs from Photoshop tools
+       - added support for receiving log errors in Slack using webhooks
       </div>
      
      <div markdown="1">
       <p>Development QA</p>
-      - Conducted research to improve my team's code quality and code documentation:
+      <p>Conducted research to improve my team's code quality and code documentation</p>
         - Source Code Analysis Tools (SonarLint, SonarQube)
         - Coding Style Tools (Unibeautify)
         - Javascript : Sphinx-JS, TypeDoc
