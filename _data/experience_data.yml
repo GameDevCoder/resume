@@ -10,7 +10,7 @@ experiences:
      <p><b>Game Title : Project Awakening - Arise</b></p>
      
      <p>Art Pipeline Tools Development</p>
-     <div style="text-indent: 70px">
+     <div style="text-indent: 30px">
      <p>Studio Library - A free tool for creating character poses in Autodesk Maya</p>
      <div markdown="1">
        - Perforce - Added Perforce integration to allow the artists to version control character poses direclty from Studio Library.
