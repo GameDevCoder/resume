@@ -11,13 +11,14 @@ experiences:
      
      <p>Art Pipeline Tools Development</p>
      <div style="text-indent: 20px">
+     
      <p>Studio Library - A free tool for creating character poses in Autodesk Maya</p>
      <div markdown="1">
-      - Perforce - Added Perforce integration to allow the artists to version control character poses direclty from Studio Library.
-      - Relative Poses - Added support making it possible to apply StudioLibrary poses to characters at locations other than the origin.
-      - Asset Folder Renaming - Created a tool to rename the Studio Library asset folders in order to conform to development naming conventions.
+      - Perforce - Added support to allow the artists to use Perforce direclty from Studio Library.
+      - Relative Poses - Made it possible to apply poses to the character model at locations other than the origin.
+      - Asset Folder Renaming - Created a tool to rename the Studio Library asset folders.
      </div>
-     </div>
+     
      
      <p>Pyblish - A free tool for validating art assets against the specified development conventions</p>
      <p>Implemented Pyblish for Maya and the following validation checks:</p>
@@ -31,6 +32,8 @@ experiences:
      <div markdown="1">
        - Substantially improved the performance of a model asset browser to smoothly display hundreds of files (Pyside2 / PyQT)
        - Added support for displaying and changing a model asset's Autodesk Shotgun task status
+     </div>
+     
      </div>
      
      <p><b>Unreal Engine</b></p>
