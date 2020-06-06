@@ -19,7 +19,6 @@ experiences:
       - Asset Folder Renaming - Created a tool to rename the Studio Library asset folders.
      </div>
      
-     
      <p>Pyblish - A free tool for validating art assets against the specified development conventions</p>
      <p>Implemented Pyblish for Maya and the following validation checks:</p>
      <div markdown="1">
