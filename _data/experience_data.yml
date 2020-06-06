@@ -8,12 +8,13 @@ experiences:
      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
      
      <p>Project Awakening - Arise</p>
+     
      <p><b>Art Pipeline Tools Development</b></p>
      <p>Studio Library - A free tool for creating character poses in Autodesk Maya</p>
      <div markdown="1">
-       - Added <b>Perforce integration</b> to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya.
-       - Added <b>relative position and relative rotation</b> support, making it possible to apply StudioLibrary poses to characters at Maya world locations other than the origin.
-       - Created a <b>renaming tool</b> to rename the Studio Library asset folders in order to conform to development naming conventions.
+       - Perforce - Added Perforce integration to allow the artists to version control character poses direclty from Studio Library.
+       - Relative Poses - Added support making it possible to apply StudioLibrary poses to characters at locations other than the origin
+       - Asset Folder Renaming - Created a tool to rename the Studio Library asset folders in order to conform to development naming conventions.
      </div>
      
      <p>Pyblish - A free tool for validating art assets against the specified development conventions</p>
@@ -29,6 +30,7 @@ experiences:
        - Substantially improved the performance of a model asset browser to smoothly display hundreds of files (Pyside2 / PyQT)
        - Added support for displaying and changing a model asset's Autodesk Shotgun task status
      </div>
+     
      
      <p><b>Unreal Engine</b></p>
      <p>Material Development</p>
