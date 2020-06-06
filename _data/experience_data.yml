@@ -70,7 +70,7 @@ experiences:
      <p><b>Internal Development</b></p>
      
      <p>Tool Logging</p>
-     <div style="text-indent: 15px;"> Created a logging system to gather user usage and program errors from internal tool's and scripts</p>
+     <div style="text-indent: 15px;"> Created a logging system to gather user usage and program errors from internal tool's and scripts</div>
      <div markdown="1">
        - created a python-based tool log server using Flask, CherryPy, SQLAlchemy and Postgresql
        - upgraded the logging tool server to use Kibana and FluentD
@@ -81,7 +81,7 @@ experiences:
      
      <div markdown="1">
       <p>Development QA</p>
-      <div style="text-indent: 15px;"> Conducted research to improve my team's code quality and code documentation</p>
+      <div style="text-indent: 15px;"> Conducted research to improve my team's code quality and code documentation</div>
         - Source Code Analysis Tools (SonarLint, SonarQube)
         - Coding Style Tools (Unibeautify)
         - Javascript : Sphinx-JS, TypeDoc
