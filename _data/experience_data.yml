@@ -18,12 +18,16 @@ experiences:
        - Asset Folder Renaming - Created a tool to rename the Studio Library asset folders.
      </div>
      
+     <br/>
+     
      <p>Pyblish - A free tool for validating art assets against the specified development conventions</p>
      <p>Implemented Pyblish for Maya and the following production validation checks:</p>
      <div markdown="1">
        - Hierarchy Check: Added test to check character models and rigs for object parenting errors.
        - Naming Convention Check: Added test to check character models and rigs for incorrect naming.
      </div>
+     
+     <br/>
      
      <p>Maya - A 3D modeling tool</p>
      <p>Took over and improved existing internal Maya tool projects</p>
@@ -32,7 +36,7 @@ experiences:
        - Added support for displaying and changing a model's Autodesk Shotgun task status.
      </div>
      
-     </br>
+     <br/>
      
      <p><b>Unreal Engine Work</b></p>
      <p>Material Development</p>
@@ -41,10 +45,14 @@ experiences:
        - Material Debugging - helped with debugging material errors on the PS4 development console<br/>
      </div>
      
+     <br/>
+     
      <p>Tool Development</p>
      <div markdown="1">
        - Data Exporter - created a tool that exported the positions of models from game levels.
      </div>
+     
+     <br/>
      
      <p><u>Game Title : Anubis Zone of the Enders - M∀RS</u></p>
      
@@ -55,6 +63,8 @@ experiences:
        - Spoken Dialog Review - reviewed in-game spoken English dialog.
        - Data Entry - helped enter text data for French, German, Italian and Spanish languages.
      </div>
+     
+     <br/>
      
      <<p><u>Technical Artist Team</u></p>
      <p><b>Internal Development</b></p>
