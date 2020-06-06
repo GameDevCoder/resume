@@ -10,9 +10,9 @@ experiences:
      <p><b>Game Title : Project Awakening - Arise</b></p>
      
      <p>Art Pipeline Tools Development</p>
-     <div style="text-indent: 30px">
+     <div style="text-indent: 25px">
      <p>Studio Library - A free tool for creating character poses in Autodesk Maya</p>
-     <div markdown="0">
+     <div markdown="1">
        - Perforce - Added Perforce integration to allow the artists to version control character poses direclty from Studio Library.
        - Relative Poses - Added support making it possible to apply StudioLibrary poses to characters at locations other than the origin
        - Asset Folder Renaming - Created a tool to rename the Studio Library asset folders in order to conform to development naming conventions.
@@ -27,7 +27,7 @@ experiences:
        - Implemented naming convention validation checks for character model materials and textures.
      </div>
      
-     <p>In-House - Extension and maintenance of internal Maya tools</p>
+     <p>Maya - Extension and maintenance of internal Maya tools</p>
      <div markdown="1">
        - Substantially improved the performance of a model asset browser to smoothly display hundreds of files (Pyside2 / PyQT)
        - Added support for displaying and changing a model asset's Autodesk Shotgun task status
@@ -51,7 +51,7 @@ experiences:
      <div markdown="1">
        - created a python-based tool log server using Flask, CherryPy, SQLAlchemy and Postgresql
        - upgraded the logging tool server to use Kibana and FluentD
-       - added support for sending tool logs from Maya using PyZMQ (re-compiled for each Maya python version)
+       - added support for sending tool logs from Maya using PyZMQ
        - added support for sending tool logs from Photoshop
        - added support for receiving error level and critical level logs in Slack using webhooks
       </div>
