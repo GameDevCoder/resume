@@ -19,7 +19,7 @@ experiences:
      <br/>
      
      <p>Pyblish - A free tool for validating art assets against the specified development conventions</p>
-     <p>Implemented Pyblish for Maya and the following production validation checks:</p>
+     <div style="text-indent: 15px;"> Implemented Pyblish for Maya and the following production validation checks: </div>
      <div markdown="1">
        - Hierarchy Check: Added test to check character models and rigs for object parenting errors.
        - Naming Convention Check: Added test to check character models and rigs for incorrect naming.
@@ -28,7 +28,7 @@ experiences:
      <br/>
      
      <p>Autodesk Maya - A 3D modeling tool</p>
-     <p>Took over and improved existing internal Maya tool projects:</p>
+     <div style="text-indent: 15px;"> Took over and improved existing internal Maya tool projects: </div>
      <div markdown="1">
        - Substantially improved the performance of a model file browser to smoothly display hundreds of files.
        - Added support for displaying and changing a model's Autodesk Shotgun task status.
@@ -38,7 +38,7 @@ experiences:
      
      <p><b>Unreal Engine Work</b></p>
      <p>Material Development</p>
-     <p>I helped with UE4 material development</p>
+     <div style="text-indent: 15px;"> Assited with UE4 material development </div>
      <div markdown="1">
        - Character Hair Shading - I aided with improving the visual quality of the main characters hair
        - Flipboard Shader - helped to fix a bug in the flipboard shader (with assistance from Epic Games)
@@ -57,7 +57,7 @@ experiences:
      <p><u>Game Title : Anubis Zone of the Enders - M∀RS</u></p>
      
      <p><b>Localization</b></p>
-     <p>Assisted with language editing work<p>
+     <div style="text-indent: 15px;"> Assisted with language editing work<p>
      <div markdown="1">
        - Text Proof Reading - reading and editing the game's English text.
        - Spoken Dialog Review - reviewed in-game spoken English dialog.
@@ -70,7 +70,7 @@ experiences:
      <p><b>Internal Development</b></p>
      
      <p>Tool Logging</p>
-     <p>Created a logging system to gather user usage and program errors from internal tool's and scripts</p>
+     <div style="text-indent: 15px;"> Created a logging system to gather user usage and program errors from internal tool's and scripts</p>
      <div markdown="1">
        - created a python-based tool log server using Flask, CherryPy, SQLAlchemy and Postgresql
        - upgraded the logging tool server to use Kibana and FluentD
@@ -81,7 +81,7 @@ experiences:
      
      <div markdown="1">
       <p>Development QA</p>
-      <p>Conducted research to improve my team's code quality and code documentation</p>
+      <div style="text-indent: 15px;"> Conducted research to improve my team's code quality and code documentation</p>
         - Source Code Analysis Tools (SonarLint, SonarQube)
         - Coding Style Tools (Unibeautify)
         - Javascript : Sphinx-JS, TypeDoc
