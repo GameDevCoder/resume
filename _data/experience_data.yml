@@ -7,10 +7,10 @@ experiences:
     details: >-
      <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
      
-     <p><b>Game Title : Project Awakening - Arise</b></p>
+     <p><u>Game Title : Project Awakening - Arise</u></p>
      
-     <p>Art Pipeline Tools Development</p>
-     <div style="text-indent: 20px">
+     <p><b>Art Pipeline Tools Development</b></p>
+     <!-- <div style="text-indent: 20px"> -->
      
      <p>Studio Library - A free tool for creating character poses in Autodesk Maya</p>
      <div markdown="1">
@@ -31,8 +31,6 @@ experiences:
      <div markdown="1">
        - Substantially improved the performance of a model asset browser to smoothly display hundreds of files (Pyside2 / PyQT)
        - Added support for displaying and changing a model asset's Autodesk Shotgun task status
-     </div>
-     
      </div>
      
      <p><b>Unreal Engine</b></p>
