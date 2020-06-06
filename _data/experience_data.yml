@@ -5,13 +5,11 @@ experiences:
     location: 'Shibuya, Tokyo'
     link: https://social-drum.cloudvent.net/clients/cygames/
     details: >-
-     <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
-     
      <p><u>Game Title : Project Awakening - Arise</u></p>
      
      <p><b>Art Pipeline Tools Development</b></p>
      <p>Studio Library - A free tool for creating character poses in Autodesk Maya</p>
-     <p>Extended the tool's functionality to meet the 3D artists needs</p>
+     <p>Extended the tool's functionality to meet the 3D artists needs:</p>
      <div markdown="1">
        - Perforce - Added support to allow the artists to use Perforce direclty from Studio Library.
        - Relative Poses - Made it possible to apply poses to the character model at locations other than the origin.
@@ -30,7 +28,7 @@ experiences:
      <br/>
      
      <p>Autodesk Maya - A 3D modeling tool</p>
-     <p>Took over and improved existing internal Maya tool projects</p>
+     <p>Took over and improved existing internal Maya tool projects:</p>
      <div markdown="1">
        - Substantially improved the performance of a model file browser to smoothly display hundreds of files.
        - Added support for displaying and changing a model's Autodesk Shotgun task status.
@@ -40,9 +38,11 @@ experiences:
      
      <p><b>Unreal Engine Work</b></p>
      <p>Material Development</p>
+     <p>I helped with UE4 material development</p>
      <div markdown="1">
-       - Character Hair Shading - aided with improving the quality of the hair shader
-       - Material Debugging - helped with debugging material errors on the PS4 development console
+       - Character Hair Shading - I aided with improving the visual quality of the main characters hair
+       - Flipboard Shader - helped to fix a bug in the flipboard shader (with assistance from Epic Games)
+       - Material Debugging - debugged visual material errors on the PS4 development console
      </div>
      
      <br/>
@@ -56,17 +56,17 @@ experiences:
      
      <p><u>Game Title : Anubis Zone of the Enders - M∀RS</u></p>
      
-     <p><b>Localization Work</b></p>
-     <p>Language Editing<p>
+     <p><b>Localization</b></p>
+     <p>Assisted with language editing work<p>
      <div markdown="1">
-       - Text Proof Reading : reading and editing the game's English text.
+       - Text Proof Reading - reading and editing the game's English text.
        - Spoken Dialog Review - reviewed in-game spoken English dialog.
        - Data Entry - helped enter text data for French, German, Italian and Spanish languages.
      </div>
      
      <br/>
      
-     <<p><u>Technical Artist Team</u></p>
+     <p><u>Technical Artist Team </u></p>
      <p><b>Internal Development</b></p>
      
      <p>Tool Logging</p>
