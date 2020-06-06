@@ -9,7 +9,7 @@ experiences:
      
      <p><b>Art Pipeline Tools Development</b></p>
      <p>Studio Library - A free tool for creating character poses in Autodesk Maya</p>
-     <div style="text-indent: 20px;">Extended the tool's functionality to meet the 3D artists needs:</div>
+     <div style="text-indent: 15px;">Extended the tool's functionality to meet the 3D artists needs:</div>
      <div markdown="1">
        - Perforce - Added support to allow the artists to use Perforce direclty from Studio Library.
        - Relative Poses - Made it possible to apply poses to the character model at locations other than the origin.
