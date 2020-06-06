@@ -11,7 +11,6 @@ experiences:
      
      <p><b>Art Pipeline Tools Development</b></p>
      <!-- <div style="text-indent: 20px"> -->
-     
      <p>Studio Library - A free tool for creating character poses in Autodesk Maya</p>
      <div markdown="1">
       - Perforce - Added support to allow the artists to use Perforce direclty from Studio Library.
@@ -22,32 +21,42 @@ experiences:
      <p>Pyblish - A free tool for validating art assets against the specified development conventions</p>
      <p>Implemented Pyblish for Maya and the following validation checks:</p>
      <div markdown="1">
-       - Setup Pyblish for use in Maya
-       - Implemented naming convention and hierarchy validation checks for character models and rigs
-       - Implemented naming convention validation checks for character model materials and textures.
+       - Hierarchy Check: For testing character models and rigs for object parenting errors.
+       - Naming Convention Check: Added checks for testing character models and rigs incorrect naming.
      </div>
      
      <p>Maya - Extension and maintenance of internal Maya tools</p>
      <div markdown="1">
-       - Substantially improved the performance of a model asset browser to smoothly display hundreds of files (Pyside2 / PyQT)
-       - Added support for displaying and changing a model asset's Autodesk Shotgun task status
+       - Substantially improved the performance of a model file browser to smoothly display hundreds of files.
+       - Added support for displaying and changing a model's Autodesk Shotgun task status.
      </div>
      
-     <p><b>Unreal Engine</b></p>
+     <p><b>Unreal Engine Work</b></p>
      <p>Material Development</p>
      <div markdown="1">
-       - Aided with character hair shader improvement for main character<br/>
-       - Helped with debugging material errors on the PS4 development console<br/>
+       - Character Hair Shading - aided with improving the quality of the hair shader<br/>
+       - Material Debugging - helped with debugging material errors on the PS4 development console<br/>
      </div>
      
      <p>Tool Development</p>
      <div markdown="1">
-       - Data exporter - created tool that exported model positions from game levels.
+       - Data Exporter - created a tool that exported the positions of models from game levels.
      </div>
      
+     <p><u>Game Title : Anubis Zone of the Enders - M∀RS</u></p>
      
-     <p><b>Technical Artist Team Development</b></p>
-     <p>Tool logging server</p>
+     <p><b>Localization Work</b></p>
+     <p>Language Editing<p>
+     <div markdown="1">
+      - Text Proof Reading : reading and editing the game's English text
+      - Spoken Dialog Review - reviewed in-game spoken English dialog
+      - Data Entry - helped enter text data for French, German, Italian and Spanish languages
+     </div>
+     
+     <<p><u>Technical Artist Team</u></p>
+     <p><b>Internal Development</b></p>
+     
+     <p>Tool Logging</p>
      <div markdown="1">
        - created a python-based tool log server using Flask, CherryPy, SQLAlchemy and Postgresql
        - upgraded the logging tool server to use Kibana and FluentD
@@ -57,27 +66,15 @@ experiences:
       </div>
      
      <div markdown="1">
-      <p><b>Information Research - Improvement of quality of Technical Artist development operations (QA tools and documentation)</b></p>
-      - Source Code Analysis Tools
-       - SonarLint
-       - SonarQube
-      - Coding Style Implementation Tools
-       - Unibeautify (Github App)
-      - Source Code Documentation Generation Tools
-       - Javascript : Sphinx-JS, TypeDoc
-       - Python: Sphinx , PyCharm Doc Generation
-       - C/C++: Doxygen
-      - Source Code Documentation Integrations for Confluence
-       - Sphinx For Confluence
-       - Doxygen For Confluence
+      <p>Development QA</p>
+      - Conducted research to improve my team's code quality and code documentation:
+        - Source Code Analysis Tools (SonarLint, SonarQube)
+        - Coding Style Tools (Unibeautify)
+        - Javascript : Sphinx-JS, TypeDoc
+        - Python: Sphinx , PyCharm Doc Generation
+        - C/C++: Doxygen
      </div>
-  
-      
-     <p>Some of my time at Cygames was spent working on localization efforts for the PS4 release of Anubis Zone of the Enders - M∀RS.</p>
-
-     <p>My tasks included proof reading and editing the games English text, reviewing in-game spoken English dialog and written English text displayed in the game’s UI.</p>
-        
-     <p>I also helped enter localized game text for the French, German, Italian and Spanish languages using an in-house localization editor tool.</p>
+     
       
   - role: Senior Software Engineer
     time:
