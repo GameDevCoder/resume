@@ -61,7 +61,7 @@ experiences:
      <div markdown="1">
        - Text Proof Reading - reading and editing the game's English text.
        - Spoken Dialog Review - reviewed in-game spoken English dialog.
-       - Data Entry - helped enter text data for French, German, Italian and Spanish languages.
+       - Data Entry - entered text data for French, German, Italian and Spanish languages.
      </div>
      
      <br/>
@@ -78,6 +78,8 @@ experiences:
        - added support for sending logs from Photoshop tools
        - added support for receiving log errors in Slack using webhooks
       </div>
+      
+      <br/>
      
      <div markdown="1">
       <p>Development QA</p>
