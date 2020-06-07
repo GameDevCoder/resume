@@ -13,6 +13,18 @@ layout: default
   {% include education.html %}
 {% endif %}
 
+{% if mainpage.enable_skills %}
+  {% include skills.html %}
+{% endif %}
+
+{% if mainpage.enable_language %}
+  {% include language.html %}
+{% endif %}
+
+{% if mainpage.enable_interests %}
+  {% include interests.html %}
+{% endif %}
+
 {% if mainpage.enable_experiences %}
   {% include experiences.html %}
 {% endif %}
@@ -25,14 +37,3 @@ layout: default
   {% include publications.html %}
 {% endif %}
 
-{% if mainpage.enable_skills %}
-  {% include skills.html %}
-{% endif %}
-
-{% if mainpage.enable_language %}
-  {% include language.html %}
-{% endif %}
-
-{% if mainpage.enable_interests %}
-  {% include interests.html %}
-{% endif %}
