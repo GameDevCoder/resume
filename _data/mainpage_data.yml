@@ -1,5 +1,6 @@
 mainpage:
   enable_career_profile: true
+  enable_career_objective: true
   enable_education: true
   enable_experiences: true
   enable_projects: false
