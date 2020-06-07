@@ -1,14 +1,24 @@
 career-profile:
   title: Career Profile
   summary: >-
-    <p> For the past <u>15 years</u>, I have worked abroad in the games industry as an <b>Engineer</b> and as a <b>Technical Artist</b> with a focus on tools development and graphics programming.</p>
+    <p>For the past <u>15 years</u>, I have worked abroad in the games industry as an <b>Engineer</b> and as a <b>Technical Artist</b> with a focus on <b>tools development</b> and <b>graphics programming</b>.</p>
 
-    <p> I like finding efficient ways to optimize work loads, reduce development time and solve the daily problems encountered on game development projects.</p>
+    <p>I like finding efficient ways to optimize work loads, reduce development time and solve the daily problems encountered on game development projects.</p>
     
-    <p> I am also very passionate about real-time 3D graphics and have a strong interest in Dev-Ops, Automation, AI and Machine Learning. </p>
+    <p>I am very passionate about real-time 3D graphics and have a strong interest in Dev-Ops, Automation, AI and Machine Learning. </p>
     
-    <p> In the past, I have worked on console and mobile game titles including Final Fantasy Grandmasters, Final Fantasy Agito and Demon’s Souls.</p>
+    <p>In the past, I have worked on console and mobile game titles Final Fantasy Grandmasters, Final Fantasy Agito and Demon’s Souls.</p>
     
-    <p> Presently I am working as a Technical Artist on the Playstation 4 title “Project Awakening : Arise” at Cygames.</p>
+    <p>Presently I am working as a Technical Artist on the Playstation 4 title “Project Awakening : Arise” at Cygames.</p>
+    
+career-objective:
+  title: Career Objective
+  summary: >-
+    <p>After having earned much experience abroad, I am now looking to permanently settle down and work long term for a well known, successful game company.</p>
+    <p> I wish to contribute my experience and skills to create efficient workflows, reduce development time and to help make engaging, high quality game experiences.
+    <p>I am strongly interested in obtaining a senior or mid-level position as an Engineer or Technical Artist for a PC, Console or Mobile game project<p>
+  
+ 
+    
     
    
