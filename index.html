@@ -9,6 +9,10 @@ layout: default
   {% include career-profile.html %}
 {% endif %}
 
+{% if mainpage.enable_career_objective %}
+  {% include career-objective.html %}
+{% endif %}
+
 {% if mainpage.enable_education %}
   {% include education.html %}
 {% endif %}
