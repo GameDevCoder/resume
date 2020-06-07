@@ -1,26 +1,27 @@
 skills:
   title: Technical Skills
-  - toolset: Programming
-      name: C/C++, C#, Objective-C/C++, Python, Java/Javascript, SQL, HTML5, CSS, PHP
-      level: 0
-  - toolset: Database
-      name: Postgresql
-      level: 0
-  - toolset: Version Control
-      name: Perforce, Github Enterprise
-      level: 0
-  - toolset: Platforms
-      name: Windows, Mac, iPhone, Android, Playstation 3/4/Portable, Nintendo Wii/DS, XBox (original)
-      level: 0
-  - toolset: Game Engines
-      name: Unity 4/5/2017, Unreal Engine 4, Custom
-      level: 0
-  - toolset: Graphics API
-      name: DirectX 8/9, OpenGL, GLES 1/2/3, PSGL/GCM
-      level: 0
-  - toolset: Shaders
-      name: Cg/CgFX, HLSL, Unity Shaders, Unreal Material Shaders
-      level: 0
-  - toolset: Art Tool Programming
-      name: Maya 2015~2020, Photoshop, Studio Max
-      level: 0
+  toolsets:
+  - title: Programming
+    desc: C/C++, C#, Objective-C/C++, Python, Java/Javascript, SQL, HTML5, CSS, PHP
+    level: 0
+  - title: Database
+    desc: Postgresql
+    level: 0
+  - title: Version Control
+    desc: Perforce, Github Enterprise
+    level: 0
+  - title: Platforms
+    desc: Windows, Mac, iPhone, Android, Playstation 3/4/Portable, Nintendo Wii/DS, XBox (original)
+    level: 0
+  - title: Game Engines
+    desc: Unity 4/5/2017, Unreal Engine 4, Custom
+    level: 0
+  - title: Graphics API
+    desc: DirectX 8/9, OpenGL, GLES 1/2/3, PSGL/GCM
+    level: 0
+  - title: Shaders
+    desc: Cg/CgFX, HLSL, Unity Shaders, Unreal Material Shaders
+    level: 0
+  - title: Art Tool Programming
+    desc: Maya 2015~2020, Photoshop, Studio Max
+    level: 0
