@@ -11,25 +11,25 @@ skills:
       level: 0
     - VersionControl: 
       title: "Version Control"
-      desc: "Perforce, Github Enterprise"
+      desc: "Perforce, Github Enterprise, Git"
       level: 0
     - Platforms: 
       title: "Platforms"
-      desc: "Windows, Mac, iPhone, Android, Playstation 3/4/Portable, Nintendo Wii/DS, XBox (original)"
+      desc: "Windows, Mac, iPhone, Android, Playstation PS3 - PS4 - PSP, Nintendo Wii - DS, XBox (original)"
       level: 0
     - GameEngines: 
       title: "Game Engines"
-      desc: "Unity 4/5/2017, Unreal Engine 4, Custom"
+      desc: "Unity 4 -5 - 2017, Unreal Engine 4"
       level: 0
     - API: 
       title: "Graphics API"
-      desc: "DirectX 8/9, OpenGL, GLES 1/2/3, PSGL/GCM"
+      desc: "DirectX 8~9, OpenGL, GLES1x~3x"
       level: 0
     - Shaders: 
       title: "Shaders"
-      desc: "Cg/CgFX, HLSL, Unity Shaders, Unreal Material Shaders"
+      desc: "Cg / CgFX, HLSL, Unity Shaders, Unreal Material Shaders"
       level: 0
     - ArtTools: 
       title: "Art Tool Programming"
-      desc: "Maya 2015~2020, Photoshop, Studio Max"
+      desc: "Maya 2015~2020, Photoshop CC, Studio Max"
       level: 0
