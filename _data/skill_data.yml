@@ -2,8 +2,8 @@ skills:
   title: Technical Skills
   skillsets:
   - title: Programming
-      desc: C/C++, C#, Objective-C/C++, Python, Java/Javascript, SQL, HTML5, CSS, PHP
-      level: 0
+    desc: C/C++, C#, Objective-C/C++, Python, Java/Javascript, SQL, HTML5, CSS, PHP
+    level: 0
   - title: Database
     desc: Postgresql
     level: 0
