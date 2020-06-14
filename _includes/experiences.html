@@ -1,6 +1,10 @@
 {% assign cygames = site.data.work_experience_cygames%}
-{% assign experiences = {{cygames}}+", "+{{cygames}} | split: ", "%}
+{% assign experiences = '' | split: '' %}
+
+{% assign experiences = experiences | push: cygames %}
+
 {% if experiences %}
+
 <section class="section experiences-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
