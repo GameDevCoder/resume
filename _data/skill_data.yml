@@ -1,27 +1,35 @@
 skills:
   title: Technical Skills
   skillsets:
-  - title: Programming
-    desc: C/C++, C#, Objective-C/C++, Python, Java/Javascript, SQL, HTML5, CSS, PHP
+  - Programming:
+    title: "Programming"
+    desc: > "C/C++, C#, Objective-C/C++, Python, Java/Javascript, SQL, HTML5, CSS, PHP"
     level: 0
-  - title: Database
-    desc: Postgresql
+  - Database:
+    title: "Database"
+    desc: "Postgresql"
     level: 0
-  - title: Version Control
-    desc: Perforce, Github Enterprise
+  - VersionControl:
+    title: "Version Control"
+    desc: "Perforce, Github Enterprise"
     level: 0
-  - title: Platforms
-    desc: Windows, Mac, iPhone, Android, Playstation 3/4/Portable, Nintendo Wii/DS, XBox (original)
+  - Platforms:
+    title: "Platforms"
+    desc: "Windows, Mac, iPhone, Android, Playstation 3/4/Portable, Nintendo Wii/DS, XBox (original)"
     level: 0
-  - title: Game Engines
-    desc: Unity 4/5/2017, Unreal Engine 4, Custom
+  - GameEngines:
+    title: "Game Engines"
+    desc: "Unity 4/5/2017, Unreal Engine 4, Custom"
     level: 0
-  - title: Graphics API
-    desc: DirectX 8/9, OpenGL, GLES 1/2/3, PSGL/GCM
+  - API:
+    title: "Graphics API"
+    desc: "DirectX 8/9, OpenGL, GLES 1/2/3, PSGL/GCM"
     level: 0
-  - title: Shaders
-    desc: Cg/CgFX, HLSL, Unity Shaders, Unreal Material Shaders
+  - Shaders:
+    title: "Shaders"
+    desc: "Cg/CgFX, HLSL, Unity Shaders, Unreal Material Shaders"
     level: 0
-  - title: Art Tool Programming
-    desc: Maya 2015~2020, Photoshop, Studio Max
+  - ArtTools:
+    title: "Art Tool Programming"
+    desc: "Maya 2015~2020, Photoshop, Studio Max"
     level: 0
