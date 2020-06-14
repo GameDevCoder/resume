@@ -72,8 +72,8 @@
      <p>Tool Logging</p>
      <div style="text-indent: 15px;"> Created a logging system to gather errors and user usage from internal tools</div>
      <div markdown="1">
-       - created a python server using Flask, CherryPy, SQLAlchemy and Postgresql
-       - upgraded the logging tool server to use Kibana and FluentD
+       - created a python server using CherryPy, Flask, SQLAlchemy and Postgresql
+       - updated the logging tool server to use Kibana and FluentD
        - added support for sending logs from Maya tools using PyZMQ
        - added support for sending logs from Photoshop tools
        - added support for receiving log errors in Slack using webhooks
