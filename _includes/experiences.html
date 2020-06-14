@@ -1,4 +1,4 @@
-{% assign experiences = site.data.experience.experiences + "|"+ site.data.work_experience_cygames.cygames  split: "|" %}
+{% assign experiences = site.data.experience.experiences, site.data.work_experience_cygames.cygames  split: ", " %}
 {% if experiences %}
 <section class="section experiences-section">
   <h2 class="section-title">
