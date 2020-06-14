@@ -3,7 +3,6 @@
 {% assign experiences = '' | split: '' %}
 
 {% assign experiences = experiences | push: cygames %}
-{% assign experiences = experiences | push: cygames %}
 
 {% if experiences %}
 
@@ -23,8 +22,6 @@
 
       <div class="upper-row">
           foo2
-          <div class="shit">{{ experience }}</div>
-          
         <h3 class="job-title">{{ experience.role }}</h3>
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
