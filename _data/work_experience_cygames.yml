@@ -1,5 +1,5 @@
-experiences:
-  - role: Technical Artist
+  - Cygames:
+    role: Technical Artist
     time: 2017/09 ~ 2020/Present
     company: 'Cygames'
     location: 'Shibuya, Tokyo'
@@ -92,23 +92,3 @@ experiences:
      </div>
      
       
-  - role: Senior Software Engineer
-    time:
-    company: 'Google'
-    location: 'London'
-    details: >-
-      Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
-      penatibus et magnis dis parturient montes,nascetur ridiculus mus. Donec
-      quam felis, ultricies nec,pellentesque eu, pretium quis, sem.  - Bullet
-      point  - Bullet point
-  - role: UI Developer
-    time:
-    company: 'Amazon'
-    location: 'London'
-    details: >-
-      Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
-      penatibus et magnis dis parturient montes,nascetur ridiculus mus. Donec
-      quam felis, ultricies nec,pellentesque eu, pretium quis, sem.  - Bullet
-      point  - Bullet point
