@@ -1,10 +1,10 @@
-  - cygames:
-    role: Technical Artist
-    time: 2017/09 ~ 2020/Present
-    company: 'Cygames'
-    location: 'Shibuya, Tokyo'
-    link: https://social-drum.cloudvent.net/clients/cygames/
-    details: >-
+- cygames:
+  role: Technical Artist
+  time: 2017/09 ~ 2020/Present
+  company: 'Cygames'
+  location: 'Shibuya, Tokyo'
+  link: https://social-drum.cloudvent.net/clients/cygames/
+  details: >-
      <p><u>Game Title : Project Awakening - Arise</u></p>
      
      <p><b>Art Pipeline Tools Development</b></p>
@@ -90,5 +90,5 @@
         - Python: Sphinx , PyCharm Doc Generation
         - C/C++: Doxygen
      </div>
-     
-      
+ 
+  
