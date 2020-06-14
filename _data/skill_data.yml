@@ -1,6 +1,6 @@
 skills:
   title: Technical Skills
-  toolsets:
+  skillsets:
   - title: Programming
     desc: C/C++, C#, Objective-C/C++, Python, Java/Javascript, SQL, HTML5, CSS, PHP
     level: 0
