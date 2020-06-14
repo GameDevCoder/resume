@@ -1,7 +1,9 @@
 {% assign cygames = site.data.work_experience_cygames.cygames %}
+
 {% assign experiences = '' | split: '' %}
 
-{% assign experiences = experiences | push: {{ cygames }} %}
+{% assign experiences = experiences | push: cygames %}
+{% assign experiences = experiences | push: cygames %}
 
 {% if experiences %}
 
