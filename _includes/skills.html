@@ -14,12 +14,13 @@
     {% for skillset in skills.skillsets %}
     
     <div class="item">
-      <h4 class="skillset-title">{{ skillset.desc }}</h4>
+      <h4 class="skillset-title">{{ skillset.title }}</h4>
     
         <!--{% for skill in toolset %}-->
         <!--<div class="item">-->
-    
-         {{ skillset.title }}
+        <div class="skillset-desc">
+         <h5 class="skilset-desc-inner">{{ skillset.desc }}</h5>
+        </div>
           <!--
           <div class="level-bar">
             <div class="level-bar-inner" data-level="{{ skill.level }}">
