@@ -11,8 +11,8 @@ cygames:
    <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
    <div markdown="1">
      - Perforce Integration - Enabled the artists to use Perforce direclty from Studio Library.
-     - Relative Poses - Made it possible to apply poses to the character model at locations other than the origin.
-     - Folder Renaming Tool - Created a tool to rename the Studio Library asset folders to follow project naming conventions.
+     - Relative Poses - Made it possible to apply poses to character models regardless of location.
+     - Folder Renaming Tool - Created a tool to rename the Studio Library asset folders.
    </div>
    
    <div> Pyblish - A free tool for testing and validating art assets against specified conventions</div>
@@ -23,8 +23,8 @@ cygames:
    
    <div>Maya Tools - Took over and improved existing internal tools</div>
    <div markdown="1">
-     - Autodesk Shotgun Integration - Enabled the artists to view and change a model's Autodesk Shotgun task status.
-     - Performance Optimizations - substantially improved sluggish GUI elements (Pyside/ PyQT).
+     - Shotgun Integration - Added UI to view and change a model's Shotgun task status.
+     - Performance Optimizations - Substantially improved sluggish PySide2 UI elements.
    </div>
    
    <br/>
@@ -32,9 +32,9 @@ cygames:
    <p><b>Unreal Engine Work</b></p>
    <div>Material Development</div>
    <div markdown="1">
-     - Character Hair Shading - Aided with improving the visual quality of the main characters hair
-     - Flipboard Shader - helped to fix a bug in the flipboard shader (with assistance from Epic Games)
-     - Material Debugging - debugged and fixed visual artifacts ocurring on the PS4 development console
+     - Character Hair - Helped improve the visual quality of the main characters hair shader.
+     - Flipboard Shader - Fixed a bug in the UE4 flipboard shader
+     - Material Debugging - Debugged and fixed visual artifacts ocurring on the PS4 development console
    </div>
    
    <div>Tool Development</div>
@@ -67,7 +67,7 @@ cygames:
    
    <div>Development QA</div>
    <div markdown="1">
-     - Conducted research to improve my team's source code quality, code documentation and coding style
+     - Conducted research to improve my team's source code quality and code documentation
        - Source Code Analysis Tools - SonarLint, SonarQube
        - Coding Style Tools - Unibeautify
        - Documentation Tools
