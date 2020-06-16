@@ -14,9 +14,7 @@ cygames:
      - Relative Poses - Made it possible to apply poses to the character model at locations other than the origin.
      - Folder Renaming Tool - Created a tool to rename the Studio Library asset folders to follow project naming conventions.
    </div>
-   
    <br/>
-   
    <div> Pyblish - A free tool for testing and validating art assets against specified conventions</div>
    <div markdown="1">
      - Hierarchy Check: Added test to check character model object parenting.
