@@ -11,7 +11,7 @@ cygames:
    <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
    <div markdown="1">
      - Perforce Integration - Enabled the artists to use Perforce direclty from Studio Library.
-     - Relative Poses - Made it possible to apply poses to character models regardless of location.
+     - Relative Poses - Can apply poses to character models at world positions, not just origin.
      - Folder Renaming Tool - Created a tool to rename the Studio Library asset folders.
    </div>
    
