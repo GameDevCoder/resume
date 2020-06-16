@@ -9,8 +9,8 @@ cygames:
    <div> A third person action rpg game </div>
    
    <p><b>Art Pipeline Tools Development</b></p>
+   <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
    <div markdown="1">
-   + Studio Library - A free tool for creating character poses in Autodesk Maya
      - Perforce Integration - Enabled the artists to use Perforce direclty from Studio Library.
      - Relative Poses - Made it possible to apply poses to the character model at locations other than the origin.
      - Folder Renaming Tool - Created a tool to rename the Studio Library asset folders to follow project naming conventions.
@@ -18,7 +18,7 @@ cygames:
    
    <br/>
    
-   <p markdown="1">  - Pyblish - A free tool for testing and validating art assets against the specified development conventions</p>
+   <div> Pyblish - A free tool for testing and validating art assets against the specified development conventions</div>
    <div markdown="1">
      - Hierarchy Check: Added test to check character models and rigs for object parenting errors.
      - Naming Convention Check: Added test to check character models and rigs for incorrect naming.
