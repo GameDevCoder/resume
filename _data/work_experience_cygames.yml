@@ -59,8 +59,8 @@ cygames:
    
    <div>Tool Logging</div>
    <div markdown="1">
-     - created a way to combine debug log messages from multiple running instances of Maya into a single log.
-     - created a tool logging system to gage user usage and analyze tool errors (python server, Kibana, FluentD)
+     - created a way to combine debug log messages from multiple running instances of Maya into a single log (PyZMQ).
+     - created a tool logging system to gage user usage and analyze tool errors (Python server, Kibana, FluentD)
      - added logging system support to existing Maya and Photoshop tool scripts
      - added support for receiving tool log errors in Slack using webhooks.
    </div>
