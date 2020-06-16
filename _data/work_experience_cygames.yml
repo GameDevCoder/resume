@@ -34,7 +34,7 @@ cygames:
    <div markdown="1">
      - Character Hair - Helped improve the visual quality of the main characters hair shader.
      - Flipboard Shader - Fixed a bug in the UE4 flipboard shader
-     - Material Debugging - Debugged and fixed visual artifacts ocurring on the PS4 development console
+     - Material Debugging - Debugged and fixed visual artifacts ocurring on the PS4
    </div>
    
    <div>Tool Development</div>
@@ -65,14 +65,14 @@ cygames:
      - added support for receiving tool log errors in Slack using webhooks.
    </div>
    
-   <div>Development QA</div>
+   <div>Development Quality Assurance</div>
    <div markdown="1">
-     - Conducted research to improve my team's source code quality and code documentation
-       - Source Code Analysis Tools - SonarLint, SonarQube
-       - Coding Style Tools - Unibeautify
-       - Documentation Tools
-         - Javascript - Sphinx-JS, TypeDoc
-         - Python -  Sphinx , PyCharm Doc Generation
-         - C/C++: Doxygen
+   Conducted research to help improve my team's source code quality and code documentation
+     - Recommended Source Code Analysis Tools - SonarLint, SonarQube
+     - Suggested Coding Style Tools - Unibeautify (Github App)
+     - Advised about Documentation Tools
+       - Javascript - Sphinx-JS, TypeDoc
+       - Python - Sphinx , PyCharm Doc Generation
+       - C/C++: Doxygen
    </div>
  
