@@ -15,7 +15,7 @@ cygames:
      - Folder Renaming Tool - Created a tool to rename the Studio Library asset folders to follow project naming conventions.
    </div>
    
-   <div> </div>
+   <p> </p>
    
    <div> Pyblish - A free tool for testing and validating art assets against specified conventions</div>
    <div markdown="1">
@@ -25,7 +25,7 @@ cygames:
    
    <br/>
    
-   <div>Internal Maya Tools - Took over and improved existing tools</div>
+   <div>Maya Tools - Took over and improved existing internal tools</div>
    <div markdown="1">
      - Autodesk Shotgun Integration - Enabled the artists to view and change a model's Autodesk Shotgun task status.
      - Performance Optimizations - substantially improved sluggish GUI elements (Pyside/ PyQT).
