@@ -57,7 +57,7 @@ cygames:
    
    <div><b>Tool Logging</b></div>
    <div markdown="1">
-     - created a log aggregation system to combine logs from multiple, different running instances of Maya (2015~2017).
+     - created a log aggregation system to combine logs from multiple running instances of Maya (2015~2017).
      - created a tool logging system to track, gage and analyze internal tool usage and tool errors.
      - added support to internal Maya and Photoshop tools to send logs to the logging system.
      - added support for receiving tool log errors in Slack using webhooks.
