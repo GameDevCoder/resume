@@ -10,18 +10,19 @@ cygames:
    <p><b>Art Pipeline Tools Development</b></p>
    <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
    <div markdown="1">
-     - Perforce Integration - Enabled the artists to use Perforce direclty from Studio Library.
-     - Relative Poses - Can apply poses to character models at world positions, not just origin.
-     - Folder Renaming Tool - Created a tool to rename the Studio Library asset folders.
+     - Perforce - Made it so the artists can use Perforce directly from Studio Library.
+     - Relative Poses - Added support to apply poses to character models at any Maya world position.
+     - Folder Renaming - Created a tool to copy and rename Studio Library asset folders.
+     - Naming Conventions - Altered how Studio Library names its asset folders to comply with project naming rules.
    </div>
    
-   <div> Pyblish - A free tool for testing and validating art assets against specified conventions</div>
+   <div> Pyblish - A free tool for testing and validating art assets against production rules</div>
    <div markdown="1">
-     - Hierarchy Check: Added test to check character model object parenting.
-     - Naming Convention Check: Added test to check character model object naming.
+     - Hierarchy Check: Added a test to check character model object parenting for errors.
+     - Naming Convention Check: Added a test to check for correct character model object naming.
    </div>
    
-   <div>Maya Tools - Took over and improved existing internal tools</div>
+   <div>Maya Tools - Took over and improved internal tools</div>
    <div markdown="1">
      - Shotgun Integration - Added UI to view and change a model's Shotgun task status.
      - Performance Optimizations - Substantially improved sluggish PySide2 UI elements.
@@ -65,11 +66,11 @@ cygames:
    
    <div><b>Quality Assurance Improvment - Research</b></div>
    <div markdown="1">
-     - Recommended using source code analysis tools like: SonarLint, SonarQube
-     - Suggested using coding style tools like: Unibeautify (Github App)
+     - Recommended using source code analysis tools like: SonarLint, SonarQube.
+     - Suggested using coding style tools like: Unibeautify (Github App).
      - Advised about using source documentation tools like:
-       - Javascript - Sphinx-JS, TypeDoc
-       - Python - Sphinx , PyCharm Doc Generation
-       - C/C++: Doxygen
+       - Javascript - Sphinx-JS, TypeDoc.
+       - Python - Sphinx , PyCharm Doc Generation.
+       - C/C++: Doxygen.
    </div>
  
