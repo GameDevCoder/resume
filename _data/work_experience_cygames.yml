@@ -53,21 +53,21 @@ cygames:
    
    <br/>
    
-   <p><u>Technical Artist Team</u></p>
+   <p><u>Internal: Technical Artist Team</u></p>
    
    <div><b>Tool Logging</b></div>
    <div markdown="1">
-     - created a way to combine debug log messages from multiple running instances of Maya into a single log (PyZMQ).
-     - created a tool logging system to gage user usage and analyze tool errors (Python server, Kibana, FluentD)
-     - added logging system support to existing Maya and Photoshop tool scripts
+     - created log capture system that aggregated logs from multiple, running instances of Maya (2015~2017).
+     - created a tool logging system to gage internal tool usage and analyze tool errors.
+     - added tool logging system support to internal Maya and Photoshop tools.
      - added support for receiving tool log errors in Slack using webhooks.
    </div>
    
    <div><b>Quality Assurance Improvment - Research</b></div>
    <div markdown="1">
-     - Recommended source code analysis tools - SonarLint, SonarQube
-     - Suggested coding style tools - Unibeautify (Github App)
-     - Advised about source documentation tools
+     - Recommended using source code analysis tools like: SonarLint, SonarQube
+     - Suggested using coding style tools like: Unibeautify (Github App)
+     - Advised about using source documentation tools like:
        - Javascript - Sphinx-JS, TypeDoc
        - Python - Sphinx , PyCharm Doc Generation
        - C/C++: Doxygen
