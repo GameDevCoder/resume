@@ -5,7 +5,8 @@ cygames:
   location: 'Shibuya, Tokyo'
   link: https://social-drum.cloudvent.net/clients/cygames/
   details: >-
-   <p><u>Game Title : Project Awakening Arise</u></p> <span float="right" text-align="right">A third person action rpg game</span>
+   <p><u>Game Title : Project Awakening - Arise</u></p>
+   <span>A third person action rpg game</span>
    
    <p><b>Art Pipeline Tools Development</b></p>
    <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
@@ -44,6 +45,7 @@ cygames:
    <br/>
    
    <p><u>Game Title : Anubis Zone of the Enders - M∀RS</u></p>
+   <span>A mecha-style third person action game</span>
    
    <p><b>Localization Work</b></p>
    <div markdown="1">
