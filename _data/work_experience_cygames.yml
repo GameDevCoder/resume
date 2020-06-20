@@ -5,6 +5,16 @@ cygames:
   location: 'Shibuya, Tokyo'
   link: https://social-drum.cloudvent.net/clients/cygames/
   details: >-
+  
+   <div class="upper-row">
+        <h2 class="game-title">Game Title: Project Awakening - Arise</h2>
+        <div class="game-platform">Platforms: Playstation PS4 / PS5</div>
+   </div><!--//upper-row-->
+
+   <div class="game-desc">A third person action rpg game</div>
+   
+   <br/>
+      
    <p class="project-title">Game Title : Project Awakening - Arise</p>
    <span>A third person action rpg game</span>
    
