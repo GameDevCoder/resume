@@ -9,14 +9,11 @@ cygames:
    <div class="upper-row">
         <p class="game-title">Game Title: Project Awakening - Arise</p>
         <div class="game-platform">Platforms: Playstation PS4 / PS5</div>
+        <span class="game-desc">A third person action rpg game</span>
    </div><!--//upper-row-->
 
    <span class="game-desc">A third person action rpg game</span>
    
-   <br/>
-      
-   <p class="project-title">Game Title : Project Awakening - Arise</p>
-   <span>A third person action rpg game</span>
    
    <p><i><u>Art Pipeline Tools Development</u></i></p>
    <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
