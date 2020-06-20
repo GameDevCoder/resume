@@ -15,8 +15,8 @@ cygames:
    <p><i><u>Art Pipeline Tools Development</u></i></p>
    <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
    <div markdown="1">
-     - Perforce - Made it so the artists can use Perforce directly from Studio Library.
-     - Relative Poses - Added support to apply poses to character models at any Maya world position.
+     - Perforce - Added UI and Perforce functions so that the artists could version control their work.
+     - Relative Poses - Added additional math calculations in order to apply poses to characters at world locations.
      - Folder Renaming - Created a tool to copy and rename Studio Library asset folders.
      - Naming Conventions - Altered how Studio Library names its asset folders to comply with project naming rules.
    </div>
