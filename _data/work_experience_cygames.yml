@@ -5,10 +5,10 @@ cygames:
   location: 'Shibuya, Tokyo'
   link: https://social-drum.cloudvent.net/clients/cygames/
   details: >-
-   <p><u>Game Title : Project Awakening - Arise</u></p>
+   <p><b>Game Title : Project Awakening - Arise</b></p>
    <span>A third person action rpg game</span>
    
-   <p><b>Art Pipeline Tools Development</b></p>
+   <p><u>Art Pipeline Tools Development</u></p>
    <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
    <div markdown="1">
      - Perforce - Made it so the artists can use Perforce directly from Studio Library.
@@ -29,7 +29,7 @@ cygames:
      - Performance Optimizations - Substantially improved sluggish PySide2 UI elements.
    </div>
    
-   <p><b>Unreal Engine Work</b></p>
+   <p><u>Unreal Engine Work</u></p>
    <div>Material Development</div>
    <div markdown="1">
      - Character Hair Shader - Helped improve the visual quality of the main characters hair.
@@ -44,10 +44,10 @@ cygames:
    
    <br/>
    
-   <p><u>Game Title : Anubis Zone of the Enders - M∀RS</u></p>
+   <p><b>Game Title : Anubis Zone of the Enders - M∀RS</ub</p>
    <span>A mecha-style third person action game</span>
    
-   <p><b>Localization Work</b></p>
+   <p><u>Localization Work</u></p>
    <div markdown="1">
      - Text Proof Reading - reading and editing the game's English text.
      - Spoken Dialog Review - reviewed in-game spoken English dialog.
@@ -56,9 +56,9 @@ cygames:
    
    <br/>
    
-   <p><u>Internal : Technical Artist Team</u></p>
+   <p><b>Internal : Technical Artist Team</b></p>
    
-   <div><b>Tool Logging</b></div>
+   <div><u>Tool Logging</u></div>
    <div markdown="1">
      - created a log aggregation system to combine logs from multiple running instances of Maya (2015~2017).
      - created a tool logging system to track, gage and analyze internal tool usage and errors.
@@ -66,7 +66,7 @@ cygames:
      - added support for receiving tool log errors in Slack using webhooks.
    </div>
    
-   <div><b>Quality Assurance Improvment - Research</b></div>
+   <div><u>Quality Assurance Improvment - Research</u></div>
    <div markdown="1">
      - Recommended using source code analysis tools like: SonarLint, SonarQube.
      - Suggested using coding style tools like: Unibeautify (Github App).
