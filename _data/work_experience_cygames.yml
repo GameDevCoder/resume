@@ -48,8 +48,11 @@ cygames:
    
    <br/>
    
-   <p><b>Game Title : Anubis Zone of the Enders - M∀RS</b></p>
-   <span>A mecha-style third person action game</span>
+   <div class="upper-row">
+        <p class="game-title">Game Title : Anubis Zone of the Enders - M∀RS</p>
+        <div class="game-platform">Platforms: Playstation PS4</div>
+        <span>A mecha-style third person action game</span>
+   </div><!--//upper-row-->
    
    <p><i><u>Localization Work</u></i></p>
    <div markdown="1">
@@ -60,7 +63,7 @@ cygames:
    
    <br/>
    
-   <p><b>Technical Artist Team</b></p>
+   <p class="game-title">Technical Artist Team</p>
    
    <div><i><u>Tool Logging</u></i></div>
    <div markdown="1">
