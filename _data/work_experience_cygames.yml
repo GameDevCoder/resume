@@ -5,9 +5,9 @@ cygames:
   location: 'Shibuya, Tokyo'
   link: https://social-drum.cloudvent.net/clients/cygames/
   details: >-
-   <div class="upper-row">
-        <h3 class="game-title">"Game Title : Project Awakening Arise"</h3>
-        <div class="game-desc">"A third person action rpg game"</div>
+   <div class="game-row">
+        <p class="game-title", align="left"><u>"Game Title : Project Awakening Arise"</u></p>
+        <div class="game-desc", align="right">"A third person action rpg game"</div>
    </div><!--//upper-row-->
    
    <p><u>Game Title : Project Awakening Arise</u></p>
