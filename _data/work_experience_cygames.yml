@@ -63,7 +63,9 @@ cygames:
    
    <br/>
    
-   <p class="game-title">Technical Artist Team</p>
+   <div class="upper-row">
+        <p class="game-title">Technical Artist Team</p>
+   </div><!--//upper-row-->
    
    <div><i><u>Tool Logging</u></i></div>
    <div markdown="1">
