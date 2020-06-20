@@ -81,9 +81,9 @@ cygames:
     <span class="bullet-point"> Suggested using coding style tools like: Unibeautify (Github App).</span>
     <span class="bullet-point"> Advised about using source documentation tools like:</span>
        <div>
-       <span class="bullet-point"> Javascript - Sphinx-JS, TypeDoc.</span>
-       <span class="bullet-point"> Python - Sphinx , PyCharm Doc Generation.</span>
-       <span class="bullet-point"> C/C++: Doxygen.</span>
+       <span class="bullet-point-sub"> Javascript - Sphinx-JS, TypeDoc.</span>
+       <span class="bullet-point-sub"> Python - Sphinx , PyCharm Doc Generation.</span>
+       <span class="bullet-point-sub"> C/C++: Doxygen.</span>
        </div>
    </p>
  
