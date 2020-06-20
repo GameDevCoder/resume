@@ -5,7 +5,7 @@ cygames:
   location: 'Shibuya, Tokyo'
   link: https://social-drum.cloudvent.net/clients/cygames/
   details: >-
-   <p><b>Game Title : Project Awakening - Arise</b></p>
+   <p class="project-title">Game Title : Project Awakening - Arise</p>
    <span>A third person action rpg game</span>
    
    <p><i><u>Art Pipeline Tools Development</u></i></p>
