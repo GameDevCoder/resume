@@ -17,7 +17,7 @@ cygames:
    <div>
    <span class="bullet-point"> Perforce - Added Perforce support, enabling the artists to version control their work.</span>
    <span class="bullet-point"> Relative Poses - Added math calculations to apply poses to characters at world locations.</span>
-   <span class="bullet-point"> Naming Conventions - Changed the asset name extensions to comply with naming rules.</span>
+   <div class="bullet-point"> Naming Conventions - Changed the asset name extensions to comply with naming rules.</div>
    </div>
    
    <div> Pyblish - A free tool for testing and validating art assets against production rules</div>
