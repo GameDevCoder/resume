@@ -37,7 +37,7 @@ cygames:
    <div>Material Development</div>
    <div markdown="1">
      - Character Hair Shader - Helped improve the visual quality of the main characters hair.
-     - UE4 Flipboard Shader - Corresponded with Epic Games to fix a bug in the default shader.
+     - UE4 Flipboard Shader - Corresponded with Epic Games to fix a bug in their shader.
      - Material Debugging - Debugged and fixed visual artifacts ocurring on the PS4
    </div>
    
