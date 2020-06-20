@@ -51,7 +51,7 @@ cygames:
    <div class="upper-row">
         <p class="game-title">Game Title : Anubis Zone of the Enders - M∀RS</p>
         <div class="game-platform">Platforms: Playstation PS4</div>
-        <span class="game-desc">A mecha-style third person action game</span>
+        <div class="game-desc">A mecha-style third person action game</div>
    </div><!--//upper-row-->
    
    <p><i><u>Localization Work</u></i></p>
