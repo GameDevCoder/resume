@@ -29,7 +29,7 @@ cygames:
      - Performance Optimizations - Substantially improved sluggish PySide2 UI elements.
    </div>
    
-   <p><u>Unreal Engine Work</u></p>
+   <p><i><u>Unreal Engine Work</u></i></p>
    <div>Material Development</div>
    <div markdown="1">
      - Character Hair Shader - Helped improve the visual quality of the main characters hair.
@@ -47,7 +47,7 @@ cygames:
    <p><b>Game Title : Anubis Zone of the Enders - M∀RS</b></p>
    <span>A mecha-style third person action game</span>
    
-   <p><u>Localization Work</u></p>
+   <p><i><u>Localization Work</u></i></p>
    <div markdown="1">
      - Text Proof Reading - reading and editing the game's English text.
      - Spoken Dialog Review - reviewed in-game spoken English dialog.
@@ -58,7 +58,7 @@ cygames:
    
    <p><b>Internal : Technical Artist Team</b></p>
    
-   <div><u>Tool Logging</u></div>
+   <div><i><u>Tool Logging</u></i></div>
    <div markdown="1">
      - created a log aggregation system to combine logs from multiple running instances of Maya (2015~2017).
      - created a tool logging system to track, gage and analyze internal tool usage and errors.
@@ -66,7 +66,7 @@ cygames:
      - added support for receiving tool log errors in Slack using webhooks.
    </div>
    
-   <div><u>Quality Assurance Improvment - Research</u></div>
+   <div><i><u>Quality Assurance Improvment - Research</u></i></div>
    <div markdown="1">
      - Recommended using source code analysis tools like: SonarLint, SonarQube.
      - Suggested using coding style tools like: Unibeautify (Github App).
