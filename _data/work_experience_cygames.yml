@@ -8,7 +8,7 @@ cygames:
    <p><b>Game Title : Project Awakening - Arise</b></p>
    <span>A third person action rpg game</span>
    
-   <p><u>Art Pipeline Tools Development</u></p>
+   <p><i><u>Art Pipeline Tools Development</u></i></p>
    <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
    <div markdown="1">
      - Perforce - Made it so the artists can use Perforce directly from Studio Library.
@@ -44,7 +44,7 @@ cygames:
    
    <br/>
    
-   <p><b>Game Title : Anubis Zone of the Enders - M∀RS</ub</p>
+   <p><b>Game Title : Anubis Zone of the Enders - M∀RS</b></p>
    <span>A mecha-style third person action game</span>
    
    <p><u>Localization Work</u></p>
