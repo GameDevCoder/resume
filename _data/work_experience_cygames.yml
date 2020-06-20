@@ -5,13 +5,7 @@ cygames:
   location: 'Shibuya, Tokyo'
   link: https://social-drum.cloudvent.net/clients/cygames/
   details: >-
-   <div class="game-row">
-        <p class="game-title" align="left"><u>"Game Title : Project Awakening Arise"</u></p>
-        <div class="game-desc" align="right">"A third person action rpg game"</div>
-   </div><!--//upper-row-->
-   
-   <p><u>Game Title : Project Awakening Arise</u></p>
-   <div>A third person action rpg game</div>
+   <p><u>Game Title : Project Awakening Arise</u></p> <span float: left;text-align: left;>A third person action rpg game</span>
    
    <p><b>Art Pipeline Tools Development</b></p>
    <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
