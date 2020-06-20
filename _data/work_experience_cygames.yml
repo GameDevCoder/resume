@@ -7,11 +7,11 @@ cygames:
   details: >-
   
    <div class="upper-row">
-        <h2 class="game-title">Game Title: Project Awakening - Arise</h2>
+        <p class="game-title">Game Title: Project Awakening - Arise</p>
         <div class="game-platform">Platforms: Playstation PS4 / PS5</div>
    </div><!--//upper-row-->
 
-   <div class="game-desc">A third person action rpg game</div>
+   <span class="game-desc">A third person action rpg game</span>
    
    <br/>
       
