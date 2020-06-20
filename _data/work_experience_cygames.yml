@@ -66,7 +66,7 @@ cygames:
      - added support for receiving tool log errors in Slack using webhooks.
    </div>
    
-   <div><i><u>Quality Assurance Improvment - Research</u></i></div>
+   <div><i><u>Quality Assurance Improvment</u></i></div>
    <div markdown="1">
      - Recommended using source code analysis tools like: SonarLint, SonarQube.
      - Suggested using coding style tools like: Unibeautify (Github App).
