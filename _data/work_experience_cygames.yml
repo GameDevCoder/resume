@@ -21,15 +21,15 @@ cygames:
    </div>
    
    <div> Pyblish - A free tool for testing and validating art assets against production rules</div>
-   <div>
+   <p>
        <span class="bullet-point"> Hierarchy Check: Added a test to check character model object parenting for errors.</span>
        <span class="bullet-point"> Naming Convention Check: Added a test to check for correct character model object naming.</span>
-   </div>
+   </p>
    
    <div>Maya Tools - Took over and improved internal tools</div>
    <div>
        <span class="bullet-point"> Shotgun Integration - Added UI to view and change a model's Shotgun task status.</span>
-       <span class="bullet-point"> Performance Optimizations - Substantially improved sluggish PySide2 UI elements.</span>
+       <p class="bullet-point"> Performance Optimizations - Substantially improved sluggish PySide2 UI elements.</p>
    </div>
    
    <p><i><u>Unreal Engine Work</u></i></p>
