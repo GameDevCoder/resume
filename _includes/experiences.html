@@ -1,8 +1,10 @@
 {% assign cygames = site.data.work_experience_cygames.cygames %}
+{% assign crooz = site.data.work_experience_crooz.crooz %}
 
 {% assign experiences = '' | split: '' %}
 
 {% assign experiences = experiences | push: cygames %}
+{% assign experiences = experiences | push: crooz %}
 
 {% if experiences %}
 
