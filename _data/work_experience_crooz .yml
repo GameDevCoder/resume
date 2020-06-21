@@ -5,7 +5,7 @@ crooz:
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/crooz/
   details: >-
-   This is a test
+   
    <div class="upper-row">
         <p class="game-title"> Game Title: Final Fantasy Grandmasters </p>
         <div class="game-platform"> Mobile iPhone / Android </div>
@@ -21,14 +21,12 @@ crooz:
    <p><i><u> Unity Development </u></i></p>
    <div> Asset Importers </div>
    <p>
-       <span class="bullet-point"> Material Animation Importer - Created an importer to process material animation data from Maya.
-       The importer generated Unity animation clips and setup an Animator Controller. </span>
+       <span class="bullet-point"> Material Animation Importer - Created an importer to process material animation data from Maya. The importer generated Unity animation clips and setup an Animator Controller. </span>
    </p>
 
    <div> Animation </div>
    <p>
-       <span class="bullet-point"> Material Animation System - Created a method for animating color, alpha and uv material properties.
-       The system used a custom script, custom shader and was driven by custom animation data imported from Maya </span>
+       <span class="bullet-point"> Material Animation System - Created a method for animating color, alpha and uv material properties. The system used a custom script, custom shader and was driven by custom animation data imported from Maya </span>
    </p>
 
    <div> Meshes </div>
