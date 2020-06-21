@@ -50,11 +50,11 @@ crooz:
    
    <div>Editor Tools</div>
    <p>
-        <span class="bullet-point"> Animator Controller Player - Developed an animation player with media controls that could playback animation states without entering playmode.
+        <span class="bullet-point"> Animator Controller Player - Developed an animation player with media controls that could playback animation states without entering playmode.</span>
         <span class="bullet-point"> Animator Controller Creator - Created a tool to greatly simplify the process of setting up new Animator Controllers.</span>
         <span class="bullet-point"> Prefab Creator - Made a tool for quickly creating prefabs with specified name, folder path and shader.</span>
-        <span class="bullet-point"> Batch Prefab Creator / Updater - Developed an asset batching system to rapidly create or update prefabs from FBX model assets.
-        <span class="bullet-point"> Look-Dev Tools - Created model viewer tools for characters, magic effects, maps and battle simulations.
+        <span class="bullet-point"> Batch Prefab Creator / Updater - Developed an asset batching system to rapidly create or update prefabs from FBX model assets.</span>
+        <span class="bullet-point"> Look-Dev Tools - Created model viewer tools for characters, magic effects, maps and battle simulations.</span>
    </p>
    
    <br/>
