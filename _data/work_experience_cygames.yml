@@ -9,7 +9,7 @@ cygames:
    <div class="upper-row">
         <p class="game-title">Game Title: Project Awakening - Arise</p>
         <div class="game-platform">Playstation PS4 / PS5</div>
-        <div class="game-desc">A third person action rpg game. This is a test.</div>
+        <div class="game-desc">A third person action rpg game.</div>
    </div><!--//upper-row-->
 
    <p><i><u>Art Pipeline Tools Development</u></i></p>
@@ -78,8 +78,8 @@ cygames:
    <div><i><u>Quality Assurance Improvment</u></i></div>
    <p>
     <span class="bullet-point"> Recommended using source code analysis tools like: SonarLint, SonarQube.</span>
-    <span class="bullet-point"> Suggested using coding style tools like: Unibeautify (Github App).</span>
-    <span class="bullet-point"> Advised about using source documentation tools like:</span>
+    <span class="bullet-point"> Suggested using coding style tools like: Unibeautify.</span>
+    <span class="bullet-point"> Advised about using source documentation tools like: Doxygen, Sphinx, Sphinx-JS or TypeDoc</span>
        <span class="bullet-point-sub"> Javascript - Sphinx-JS, TypeDoc.</span>
        <span class="bullet-point-sub"> Python - Sphinx , PyCharm Doc Generation.</span>
        <span class="bullet-point-sub"> C/C++: Doxygen.</span>
