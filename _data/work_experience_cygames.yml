@@ -77,11 +77,9 @@ cygames:
    
    <div><i><u>Quality Assurance Improvment</u></i></div>
    <p>
-    <span class="bullet-point"> Recommended using source code analysis tools like: SonarLint, SonarQube.</span>
-    <span class="bullet-point"> Suggested using coding style tools like: Unibeautify.</span>
-    <span class="bullet-point"> Advised about using source documentation tools like: Doxygen, Sphinx, Sphinx-JS or TypeDoc</span>
-       <span class="bullet-point-sub"> Javascript - Sphinx-JS, TypeDoc.</span>
-       <span class="bullet-point-sub"> Python - Sphinx , PyCharm Doc Generation.</span>
-       <span class="bullet-point-sub"> C/C++: Doxygen.</span>
+    <span>Results of information research I conducted to improve quality of code and technical documentation.</span>
+    <span class="bullet-point"> Recommended source code analysis tools like: SonarLint, SonarQube.</span>
+    <span class="bullet-point"> Suggested coding style tools like: Unibeautify.</span>
+    <span class="bullet-point"> Encouraged adopting source documentation tools like: Doxygen, Sphinx, Sphinx-JS or TypeDoc</span>
    </p>
  
