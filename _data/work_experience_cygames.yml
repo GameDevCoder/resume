@@ -77,7 +77,7 @@ cygames:
    
    <div><i><u>Quality Assurance Improvment</u></i></div>
    <p>
-    <span>Conducted information research to improve my groups quality of code and source documentation:</span>
+    <span>Conducted research to improve my groups quality of code and source documentation:</span>
     <span class="bullet-point"> Recommended source code analysis tools like: SonarLint, SonarQube.</span>
     <span class="bullet-point"> Suggested coding style tools like: Unibeautify.</span>
     <span class="bullet-point"> Promoted source documentation tools like: Doxygen, Sphinx, Sphinx-JS or TypeDoc</span>
