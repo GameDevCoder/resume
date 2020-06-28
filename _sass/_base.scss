@@ -222,10 +222,9 @@ p {
         font-weight: bold;
     }
     .game-platform {
-        position: relative;
-        right: 0;
+        position: absolute;
+        left: 50;
         top: 0;
-        padding-left: 75;
     }
     .game-desc {
         margin-bottom: 10px;
