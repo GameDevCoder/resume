@@ -22,8 +22,8 @@ cygames:
    
    <div> Pyblish - A free tool for testing and validating art assets against production rules</div>
    <p>
-       <span class="bullet-point"> Hierarchy Check: Added tests to check models for correct parenting.</span>
-       <span class="bullet-point"> Naming Check: Added tests to verify models, materials and textures comply with naming rules.</span>
+       <span class="bullet-point"> Hierarchy: Added tests to check model objects for correct parenting.</span>
+       <span class="bullet-point"> Naming: Added tests to verify models, materials and textures comply with naming rules.</span>
    </p>
    
    <div>Maya Tools - Took over and improved internal tools</div>

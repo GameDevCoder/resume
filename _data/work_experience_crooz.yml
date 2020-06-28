@@ -15,14 +15,13 @@ crooz:
    <p><i><u>Art Pipeline Tools Development</u></i></p>
    <div> Maya </div>
    <p>
-       <span class="bullet-point"> Material Animation Exporter - Created a plugin to export material color, alpha and uv animation to Unity.</span>
+       <span class="bullet-point"> Material Animation Exporter - Created a plugin to export material animation to Unity (color, alpha, uv).</span>
    </p>
    
    <p><i><u>Unity Development</u></i></p>
    <div>Asset Importers</div>
    <p>
-       <span class="bullet-point"> Material Animation Importer - Created an importer to convert Maya material animation data into Unity animation resources.</span>
-       <span>(Animation Clips, Animator Controller).</span>
+       <span class="bullet-point"> Material Animation Importer - Created an importer to convert Maya material animation into Unity resources.</span>
    </p>
 
    <div>Animation</div>
@@ -33,12 +32,12 @@ crooz:
 
    <div>Particles</div>
    <p>
-       <span class="bullet-point"> Particle Scaling System - Created a way to scale particle effects at runtime using hierarchy transforms</span>
+       <span class="bullet-point"> Particle Scaling System - Created a runtime particle effect scaling system using hierarchy transforms.</span>
    </p>
 
    <div>Meshes</div>
    <p>
-       <span class="bullet-point"> Rendering Optimizations - Used Mesh Baker to compress animated, multi-mesh models to reduce draw calls.</span>
+       <span class="bullet-point"> Rendering Optimizations - Customized Mesh Baker to compress animated models and reduce draw calls.</span>
    </p>
 
    <div>Shaders</div>
@@ -51,17 +50,17 @@ crooz:
    <div>Post Effects</div>
    <p>
         <span class="bullet-point"> Outline Glow - Developed a highly optimized outline glow effect for armor and weapons.</span>
-        <span class="bullet-point"> Model Lighting Effects - Created a unique, post model lighting effect to improve attractiveness.</span>
+        <span class="bullet-point"> Post Lighting - Created bloom-like model lighting effects to improve graphics quality.</span>
    </p>
    
    <div>Editor Tools</div>
    <p>
-        <span class="bullet-point"> Animator Controller Player - Developed an animation player with media controls that played animation in edit-mode.</span>
+        <span class="bullet-point"> Animator Controller Player - Developed an animation player utility to play animation in edit-mode.</span>
         <span class="bullet-point"> Animator Controller Creator - Created a tool to rapidly create and setup Animator Controllers.</span>
-        <span class="bullet-point"> Prefab Creator - Made a tool for quickly creating prefabs with settings for name, folder path and shader.</span>
-        <span class="bullet-point"> Prefab Updater - Created a tool to update prefabs from FBX assets while preserving prefab customizations.</span>
-        <span class="bullet-point"> Batch Prefab Tool - Developed an asset batching system to rapidly create or update prefabs from FBX assets.</span>
-        <span class="bullet-point"> Look-Dev Tools - Created model/animation viewer tools for characters, magic effects, maps and battle simulations.</span>
+        <span class="bullet-point"> Prefab Creator - Made a tool for quickly creating prefabs with settings (name, folder path, shader).</span>
+        <span class="bullet-point"> Prefab Updater - Created a tool to update prefab geometry and animations from FBX assets.</span>
+        <span class="bullet-point"> Batch Prefab Tool - Developed an asset batching system to rapidly create or update prefabs.</span>
+        <span class="bullet-point"> Look-Dev Tools - Created model / animation viewer tools for characters, magic effects and maps.</span>
    </p>
    
    <br/>
