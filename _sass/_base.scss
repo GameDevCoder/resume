@@ -208,7 +208,7 @@ p {
         right: 0;
         top: 0;
         color: $text-grey;
-        padding-right: 350px;
+        
     }
     .company, .university {
         margin-bottom: 10px;
@@ -222,10 +222,10 @@ p {
         font-weight: bold;
     }
     .game-platform {
-        position: absolute;
+        position: relative;
         right: 0;
         top: 0;
-        padding-right: 350px;
+        
     }
     .game-desc {
         margin-bottom: 10px;
