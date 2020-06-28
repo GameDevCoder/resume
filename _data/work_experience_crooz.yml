@@ -26,7 +26,7 @@ crooz:
    <div>Asset Importers</div>
    <p>
        <span class="bullet-point"> Material Animation Importer - Made an importer to convert Maya material animation to Unity resources.</span>
-       <span>      (Animation clips and Animator Controller)</span>
+       <span>"        "(Animation clips and Animator Controller)</span>
    </p>
 
    <div>Animation</div>
