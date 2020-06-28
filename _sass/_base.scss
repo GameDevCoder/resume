@@ -208,7 +208,6 @@ p {
         right: 0;
         top: 0;
         color: $text-grey;
-        
     }
     .company, .university {
         margin-bottom: 10px;
@@ -223,7 +222,7 @@ p {
     }
     .game-platform {
         position: absolute;
-        right: 50;
+        right: -50;
         top: 0;
     }
     .game-desc {
