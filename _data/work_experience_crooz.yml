@@ -37,8 +37,8 @@ crooz:
 
    <div>Particles</div>
    <p>
-       <span class="bullet-point"> Particle Scaling System - Created a <u>runtime particle effect scaling</u> system using hierarchy transforms.</span>
-       <span class="indent">(A feat considered impossible at the time.)</span>
+       <span class="bullet-point"> Particle Scaling System - Created a <u>runtime particle effect scaling method</u> using hierarchy transforms.</span>
+       <span class="indent">(A feat considered impossible at the time)</span>
    </p>
 
    <div>Meshes</div>
