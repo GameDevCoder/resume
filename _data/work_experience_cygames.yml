@@ -10,6 +10,7 @@ cygames:
         <p class="game-title">Game Title: Project Awakening - Arise</p>
         <div class="game-platform">Platforms: Playstation PS4 / PS5</div>
         <div class="game-desc">A third person action rpg game.</div>
+        <div class="game-engine">Engine: Unreal Engine 4</div>
    </div><!--//upper-row-->
 
    <p><i><u>Art Pipeline Tools Development</u></i></p>
