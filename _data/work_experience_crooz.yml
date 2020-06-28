@@ -8,9 +8,12 @@ crooz:
   
    <div class="upper-row">
         <p class="game-title">Game Title: Final Fantasy Grandmasters</p>
-        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
-        <p class="game-desc">A third person action rpg game</p>
         <div class="game-engine">Engine: Unity 4 / Unity 5</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A third person action rpg game</div>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 
    <p><i><u>Art Pipeline Tools Development</u></i></p>
@@ -70,9 +73,12 @@ crooz:
    
    <div class="upper-row">
         <p class="game-title">Game Title: ACR Drift</p>
-        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
-        <div class="game-desc">A car drift racing game</div>
         <div class="game-engine">Engine: Unity 4</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A car drift racing game</div>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
    
    <p><i><u>UI Development</u></i></p>
