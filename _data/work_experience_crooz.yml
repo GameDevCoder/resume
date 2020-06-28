@@ -44,23 +44,24 @@ crooz:
    <div>Shaders</div>
    <p>
         <span class="bullet-point"> Character Skin Shader - Created a two-tone color skin shader.</span>
-        <span class="bullet-point"> Crystal Shader - Made a sparkly crystal shader effect.</span>
-        <span class="bullet-point"> UV Water Shader - Made a running water effect by animating uv values.</span>
+        <span class="bullet-point"> Crystal Shader - Made a crystal shader with specular effects.</span>
+        <span class="bullet-point"> UV Scroll Shader - Made a procedural texture scroll effect to animate planar water.</span>
    </p>
 
    <div>Post Effects</div>
    <p>
         <span class="bullet-point"> Outline Glow - Developed a highly optimized outline glow effect for armor and weapons.</span>
-        <span class="bullet-point"> Bloom Effects - Created a very optimized Bloom-like fresnel and specular lighting effects.</span>
+        <span class="bullet-point"> Model Lighting Effects - Created a unique, post model lighting effect to improve attractiveness.</span>
    </p>
    
    <div>Editor Tools</div>
    <p>
-        <span class="bullet-point"> Animator Controller Player - Developed an animation player with media controls that could playback animation states without entering playmode.</span>
-        <span class="bullet-point"> Animator Controller Creator - Created a tool to greatly simplify the process of setting up new Animator Controllers.</span>
-        <span class="bullet-point"> Prefab Creator - Made a tool for quickly creating prefabs with specified name, folder path and shader.</span>
-        <span class="bullet-point"> Batch Prefab Creator / Updater - Developed an asset batching system to rapidly create or update prefabs from FBX model assets.</span>
-        <span class="bullet-point"> Look-Dev Tools - Created model viewer tools for characters, magic effects, maps and battle simulations.</span>
+        <span class="bullet-point"> Animator Controller Player - Developed an animation player with media controls that played animation in edit-mode.</span>
+        <span class="bullet-point"> Animator Controller Creator - Created a tool to rapidly create and setup Animator Controllers.</span>
+        <span class="bullet-point"> Prefab Creator - Made a tool for quickly creating prefabs with settings for name, folder path and shader.</span>
+        <span class="bullet-point"> Prefab Updater - Created a tool to update prefabs from FBX assets while preserving prefab customizations.</span>
+        <span class="bullet-point"> Batch Prefab Tool - Developed an asset batching system to rapidly create or update prefabs from FBX assets.</span>
+        <span class="bullet-point"> Look-Dev Tools - Created model/animation viewer tools for characters, magic effects, maps and battle simulations.</span>
    </p>
    
    <br/>
@@ -73,11 +74,11 @@ crooz:
    
    <p><i><u>UI Development</u></i></p>
    <p>
-       <span class="bullet-point"> Game Screen UI - Used NGUI to implemented the UI for various game screens (Car Garage, Car Selection etc).</span>
+       <span class="bullet-point"> Game Screen UI - Used NGUI to implement UI elements for various screens (car selection, racing etc).</span>
    </p>
 
    <p><i><u>Gameplay</u></i></p>
    <p>
-       <span class="bullet-point"> Gameplay Testing - Played in numerous races checking for bugs, collision issues, racing fairness.</span>
+       <span class="bullet-point"> Gameplay Testing - Checked for racing fairness and game issues (graphics, physics, memory).</span>
    </p>
    
