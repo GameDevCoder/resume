@@ -230,10 +230,6 @@ p {
         margin-bottom: 10px;
     }
 
-    .tab2 {
-        tab-size: 2;
-    }
-
     .project-title {
         font-size: 16px;
         font-weight: 400;
@@ -311,6 +307,10 @@ p {
   list-style-position: inside;
   /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-position */
   text-indent: 30px;
+}
+
+.indent {
+    text-indent: 30px;
 }
 
 
