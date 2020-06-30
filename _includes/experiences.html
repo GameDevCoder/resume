@@ -1,12 +1,20 @@
 {% assign cygames = site.data.work_experience_cygames.cygames %}
+{% assign mightygames = site.data.work_experience_mightygames.mightygames %}
 {% assign crooz = site.data.work_experience_crooz.crooz %}
 {% assign tayutau = site.data.work_experience_esmile_tayutau.tayutau %}
+{% assign landho = site.data.work_experience_esmile_landho.landho %}
+{% assign lecre = site.data.work_experience_esmile_lecre.lecre %}
+{% assign cri = site.data.work_experience_esmile_cri.cri %}
 
 {% assign experiences = '' | split: '' %}
 
 {% assign experiences = experiences | push: cygames %}
+{% assign experiences = experiences | push: mightygames %}
 {% assign experiences = experiences | push: crooz %}
-
+{% assign experiences = experiences | push: tayutau %}
+{% assign experiences = experiences | push: landho %}
+{% assign experiences = experiences | push: lecre %}
+{% assign experiences = experiences | push: cri %}
 
 {% if experiences %}
 

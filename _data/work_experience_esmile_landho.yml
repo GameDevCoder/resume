@@ -1,0 +1,32 @@
+landho:
+  role: Unity Engineer
+  time: 2013/05/01 ~ 2013/09/28
+  company: 'Land Ho! (Contract hire from staffing company ESmile)'
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/landho/
+  company_url: https://www.landho.co.jp
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">Game Title: Sakatsuku Shoot!</p>
+        <div class="game-engine">Engine: Unity 4</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A 3d soccer game</div>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Unity Development</u></i></p>
+   <div>User Interface Work</div>
+   <p>
+       <span class="bullet-point"> Implemented the GUI for several game screens using NGUI.</span>
+       <span class="bullet-point"> (Custom Table Layouts, Drag & Drop, Scrolling UI, Animated Gages)</span>
+   </p>
+
+   <div>Debugging</div>
+   <p>
+       <span class="bullet-point"> Built and tested the game app on the iPhone using a Mac and XCode.</span>
+   </p>
+    
+   
