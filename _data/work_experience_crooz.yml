@@ -12,7 +12,7 @@ crooz:
    </div><!--//upper-row-->
 
    <div class="upper-row">
-        <div class="game-desc">A third person action rpg game</div>
+        <div class="game-desc">A fantasy rpg game</div>
         <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 
@@ -26,7 +26,7 @@ crooz:
    <div>Asset Importers</div>
    <p>
        <span class="bullet-point"> Material Animation Importer - Made an importer to convert Maya material animation to Unity resources.</span>
-       <span class="indent">(Animation clips and Animator Controller)</span>
+       <span class="indent">(Animation clips and Animator Controller with animation states automatically setup)</span>
    </p>
 
    <div>Animation</div>
@@ -37,7 +37,7 @@ crooz:
 
    <div>Particles</div>
    <p>
-       <span class="bullet-point"> Particle Scaling System - Created a <u>runtime particle effect scaling method</u> using hierarchy transforms.</span>
+       <span class="bullet-point"> Particle Scaling System - Created a <u>runtime</u> particle effect scaling method using hierarchy transforms.</span>
        <span class="indent">(A feat considered impossible at the time)</span>
    </p>
 
