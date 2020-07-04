@@ -1,12 +1,13 @@
 lecre:
   role: Mobile App Engineer
   time: 2012/11/01 ~ 2013/04/28
-  company: 'Lecre (Contract hire from staffing company ESmile)'
+  company: 'ESmile - Lecre'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/lucre/
   company_url: https://lecre.jp/
   details: >-
-  
+   ** Contracted out from staffing company ESmile **
+   
    <div class="upper-row">
         <p class="game-title">Mobile Project: QR Code Scanner</p>
         <div class="game-engine">Engine: Unity 4</div>

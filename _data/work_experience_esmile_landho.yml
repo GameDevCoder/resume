@@ -1,12 +1,13 @@
 landho:
   role: Unity Engineer
   time: 2013/05/01 ~ 2013/09/28
-  company: 'Land Ho! (Contract hire from staffing company ESmile)'
+  company: 'ESmile - Land Ho!'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/landho/
   company_url: https://www.landho.co.jp
   details: >-
-  
+   ** Contracted out from staffing company ESmile **
+   
    <div class="upper-row">
         <p class="game-title">Game Title: Sakatsuku Shoot!</p>
         <div class="game-engine">Engine: Unity 4</div>

@@ -1,0 +1,24 @@
+climax:
+  role: Game Programmer
+  time: 2007/02/01 ~ 2007/09/28
+  company: 'ESmile - Climax'
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/hitmaker/
+  company_url: 
+  details: >-
+   ** Contracted out from staffing company ESmile **
+  
+   <div class="upper-row">
+        <p class="game-title">Steal Princess</p>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Action role playing game</div>
+        <div class="game-platform">Platforms: Nintendo DS</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Framework Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Built a framework for managing 2D and 3D scene graphics and memory.</span>
+   </p>
+   
