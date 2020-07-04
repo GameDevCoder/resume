@@ -1,0 +1,31 @@
+hitmaker:
+  role: Graphics Programmer
+  time: 2008/04/01 ~ 2009/06/28
+  company: 'Hitmaker (Contract hire from staffing company ESmile)'
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/hitmaker/
+  company_url: 
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">Last Rebellion</p>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Action role playing game</div>
+        <div class="game-platform">Platforms: Playstation 3</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Shader Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Blinn/phong lighting.</span>
+       <span class="bullet-point"> Toon shading.</span>
+       <span class="bullet-point"> Normal mapping.</span>
+       <span class="bullet-point"> GPU skinning.</span>
+   </p>
+
+   <p><i><u>Post Effect Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Ink outline.</span>
+       <span class="bullet-point"> Paint style rendering.</span>
+   </p>

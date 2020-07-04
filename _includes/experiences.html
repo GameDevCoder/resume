@@ -5,6 +5,11 @@
 {% assign landho = site.data.work_experience_esmile_landho.landho %}
 {% assign lecre = site.data.work_experience_esmile_lecre.lecre %}
 {% assign cri = site.data.work_experience_esmile_cri.cri %}
+{% assign instructor = site.data.work_experience_esmile_instructor.esmile %}
+{% assign vivarium = site.data.work_experience_esmile_vivarium.vivarium %}
+{% assign ivyarts = site.data.work_experience_esmile_ivyarts.ivyarts %}
+{% assign cavia = site.data.work_experience_esmile_cavia.cavia %}
+
 
 {% assign experiences = '' | split: '' %}
 
@@ -15,6 +20,12 @@
 {% assign experiences = experiences | push: landho %}
 {% assign experiences = experiences | push: lecre %}
 {% assign experiences = experiences | push: cri %}
+{% assign experiences = experiences | push: instructor %}
+{% assign experiences = experiences | push: vivarium %}
+{% assign experiences = experiences | push: ivyarts %}
+{% assign experiences = experiences | push: cavia %}
+
+
 
 {% if experiences %}
 

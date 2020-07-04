@@ -1,0 +1,29 @@
+from:
+  role: Tools Programmer
+  time: 2007/10/01 ~ 2008/02/28
+  company: 'FromSoftware (Contract hire from staffing company ESmile)'
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/hitmaker/
+  company_url: 
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">Demon's Souls</p>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Action role playing game</div>
+        <div class="game-platform">Platforms: Playstation 3</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tool Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Extended the capabilities of the version control system AlienBrain.</span>
+   </p>
+
+   <p><i><u>Art Pipeline Consultant</u></i></p>
+   <p>
+       <span class="bullet-point"> Identified bottlenecks in art pipeline.</span>
+       <span class="bullet-point"> Proposed changes for improvements to current pipeline.</span>
+       <span class="bullet-point"> Research of middleware tools and recommendations for use on project.</span>
+   </p>

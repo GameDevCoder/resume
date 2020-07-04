@@ -1,0 +1,24 @@
+vivarium:
+  role: Mobile Developer
+  time: 2009/11/01 ~ 2010/07/28
+  company: 'Vivarium (Contract hire from staffing company ESmile)'
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/esmile/
+  company_url: https://www.esmile-hd.com/
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">Twitter-based App</p>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">App for Twitter users with enhanced features</div>
+        <div class="game-platform">Platforms: Mobile - iPhone</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Mobile App Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Implemented an open source Twitter-Engine.</span>
+       <span class="bullet-point"> Added support for client app authentication (OAuth). </span>
+       <span class="bullet-point"> Created UI for all application screens. </span>
+   </p>
