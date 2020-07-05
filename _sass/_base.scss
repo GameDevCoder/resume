@@ -233,7 +233,16 @@ p {
         margin-top: 0;
         margin-bottom: 0;
     }
-    .game-platform, .game-engine {
+    .game-platform {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .game-engine {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .game-teamsize {
         position: absolute;
         right: 0;
         top: 0;
