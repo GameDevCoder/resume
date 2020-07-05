@@ -197,28 +197,41 @@ p {
         margin-bottom: 2px;
     }
     .job-title, .degree {
-        color: $text-color;
-        font-size: 16px;
+        font-size: 18px;
+        font-weight: 600;
+        color: $theme-color;
         margin-top: 0;
         margin-bottom: 0;
-        font-weight: 500;
     }
-    .time, .location {
+    .time {
+        font-size:16px;
+        font-weight: 600;
+        color: $theme-color;
         position: absolute;
         right: 0;
         top: 0;
-        color: $text-grey;
+    }
+    .location {
+        font-size:16px;
+        font-weight: 600;
+        color:#ffa715;
+        position: absolute;
+        right: 0;
+        top: 0;
     }
     .company, .university {
+        font-size:16px;
+        font-weight:600;
+        color:#ffa715;
         margin-bottom: 10px;
-        color: $text-grey;
     }
 
     .game-title {
         font-size: 15px;
+        font-weight:600;
+        color:$text-color;
         margin-top: 0;
         margin-bottom: 0;
-        font-weight: bold;
     }
     .game-platform, .game-engine {
         position: absolute;
