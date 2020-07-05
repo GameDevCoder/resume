@@ -15,14 +15,13 @@ mightygames:
    <div class="upper-row">
         <div class="game-desc">A Final Fantasy series rpg game</div>
         <div class="game-teamsize">Team Size: 20 members</div>
-        <div class="game-engine">Tech: Python, Maya, Objective-C++, C#, Unity 5</div>
    </div><!--//upper-row-->
 
    <p>** Final Fantasy Grandmasters project and staff transferred from Crooz to Mighty Games. **</p>
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">.</span>
+       <span class="bullet-point">Python, Maya, Objective-C++, C#, Unity 5.</span>
    </p>
 
    <p><i><u>Art Pipeline Tools Development</u></i></p>
