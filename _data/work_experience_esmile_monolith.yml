@@ -30,7 +30,7 @@ monolith:
    </p>
 
    <p><i><u>Game Engine Updates</u></i></p>
-   <p>  Made various updates to the game engine
+   <p> 
        <span class="bullet-point"> Implemented Nintendo guidelines for UI and Wiimote usage.</span>
        <span class="bullet-point"> Added support for async data loading from disc.</span>
    </p>
