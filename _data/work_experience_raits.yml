@@ -9,17 +9,18 @@ raits:
   
    <div class="upper-row">
         <p class="game-title">Style Labratory</p>
+        <div class="game-platform">Platforms: XBox</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
         <div class="game-desc">A clothing / fashion simulation game</div>
-        <div class="game-platform">Platforms: XBox</div>
+        <div class="game-engine">Tech: C++, Visual Studio</div>
    </div><!--//upper-row-->
 
    <p><i><u>Cloth Animation Work</u></i></p>
    <p>
-       <span class="bullet-point"> Research into techniques for animating 3D clothing.</span>
-       <span class="bullet-point"> Implementation and testing of 3d cloth animation methods on XBox.</span>
+       <span class="bullet-point"> Researched methods for 3D cloth animation.</span>
+       <span class="bullet-point"> Implemented and tested various 3D cloth animation methods on XBox.</span>
    </p>
    
 

@@ -10,11 +10,12 @@ cri:
 
    <div class="upper-row">
         <p class="game-title">Cloudia</p>
+        <div class="game-platform">Platforms: Mobile - iPad</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
         <div class="game-desc">Cloud based document distribution app</div>
-        <div class="game-platform">Platforms: Mobile - iPad</div>
+        <div class="game-engine">Tech: Objective-C, XCode, MySQL</div>
    </div><!--//upper-row-->
 
    <p><i><u>App Development</u></i></p>
@@ -27,7 +28,7 @@ cri:
 
    <div class="upper-row">
         <p class="game-title">Mobile Project: Augmented Reality App</p>
-        <div class="game-engine">Engine: Unity 4</div>
+        <div class="game-engine">Tech: Objective-C, XCode, C#, Unity 4</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">

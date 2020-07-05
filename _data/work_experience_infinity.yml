@@ -9,16 +9,17 @@ infinity:
   
    <div class="upper-row">
         <p class="game-title">Fish Eyes</p>
+        <div class="game-platform">Platforms: Playstation Portable</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
         <div class="game-desc">Fishing simulation game</div>
-        <div class="game-platform">Platforms: Playstation Portable</div>
+        <div class="game-engine">Tech: C++, PSP Dev Tool</div>
    </div><!--//upper-row-->
 
    <p><i><u>Platform Porting Work</u></i></p>
    <p>
-       <span class="bullet-point"> Worked on porting graphics related source code from Playstion 2 to the PSP.</span>
+       <span class="bullet-point"> Ported graphics related assets and source code from Playstion 2 to the PSP.</span>
    </p>
 
    

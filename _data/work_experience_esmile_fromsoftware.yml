@@ -10,16 +10,17 @@ fromsoftware:
    
    <div class="upper-row">
         <p class="game-title">Demon's Souls</p>
+        <div class="game-platform">Platforms: Playstation 3</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
         <div class="game-desc">Action role playing game</div>
-        <div class="game-platform">Platforms: Playstation 3</div>
+        <div class="game-engine">Tech: C++, MFC, AlienBrain, 3D Studio Max 2008</div>
    </div><!--//upper-row-->
 
    <p><i><u>Tool Development</u></i></p>
    <p>
-       <span class="bullet-point"> Extended the capabilities of the version control system AlienBrain.</span>
+       <span class="bullet-point"> Created plugins to add custom assets to the AlienBrain version control system.</span>
    </p>
 
    <p><i><u>Art Pipeline Consultant</u></i></p>

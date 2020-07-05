@@ -9,11 +9,12 @@ esmile:
   
    <div class="upper-row">
         <p class="game-title">Mobile Programming Instructor</p>
+        <div class="game-platform">Platforms: Mobile - iPhone, Android</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
         <div class="game-desc">iPhone and Android Programming Course</div>
-        <div class="game-platform">Platforms: Mobile - iPhone, Android</div>
+        <div class="game-engine">Tech: Objective-C, Java, C#, Unity, Powerpoint</div>
    </div><!--//upper-row-->
 
    <p><i><u>Mobile Programming Instructor</u></i></p>

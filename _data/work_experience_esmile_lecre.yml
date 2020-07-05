@@ -10,12 +10,12 @@ lecre:
    
    <div class="upper-row">
         <p class="game-title">Mobile Project: QR Code Scanner</p>
-        <div class="game-engine">Engine: Unity 4</div>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
         <div class="game-desc">Rapid prototyping of a QR code scanning app</div>
-        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
+        <div class="game-engine">Tech: Objective-C, iOS SDK, JAVA, Android SDK</div>
    </div><!--//upper-row-->
 
    <p><i><u>App Development</u></i></p>
@@ -28,7 +28,7 @@ lecre:
 
    <div class="upper-row">
         <p class="game-title">Mobile Project: Augmented Reality App</p>
-        <div class="game-engine">Engine: Unity 4</div>
+        <div class="game-engine">Tech: iOS SDK, Unity 4</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">

@@ -10,23 +10,30 @@ hitmaker:
    
    <div class="upper-row">
         <p class="game-title">Last Rebellion</p>
+        <div class="game-platform">Platforms: Playstation 3</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
         <div class="game-desc">Action role playing game</div>
-        <div class="game-platform">Platforms: Playstation 3</div>
+        <div class="game-engine">Tech: C++, PS3 Dev Kit, GCM API</div>
    </div><!--//upper-row-->
 
-   <p><i><u>Shader Development</u></i></p>
+   <p><i><u>Graphics Programming Work</u></i></p>
    <p>
+       <span class="bullet-point"> Ugraded the game's rendering system to support advanced shading</span>
+       <span class="bullet-point"> Added support for various model vertex formats.</span>
+   </p>
+
+   <p><i><u>Shader Development</u></i></p>
+   <p> Created the following shaders:
        <span class="bullet-point"> Blinn/phong lighting.</span>
        <span class="bullet-point"> Toon shading.</span>
        <span class="bullet-point"> Normal mapping.</span>
-       <span class="bullet-point"> GPU skinning.</span>
+       <span class="bullet-point"> GPU skinning for character animation.</span>
    </p>
 
    <p><i><u>Post Effect Development</u></i></p>
-   <p>
-       <span class="bullet-point"> Ink outline.</span>
-       <span class="bullet-point"> Paint style rendering.</span>
+   <p> Created the following post effects:
+       <span class="bullet-point"> Ink outline effect.</span>
+       <span class="bullet-point"> Paint style rendering effect.</span>
    </p>

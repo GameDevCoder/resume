@@ -10,12 +10,12 @@ tayutau:
    
    <div class="upper-row">
         <p class="game-title">Game Title: Final Fantasy Agito</p>
-        <div class="game-engine">Engine: Unity 4</div>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
-        <div class="game-desc">A mobile rpg game</div>
-        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
+        <div class="game-desc">A Final Fantasy series rpg game</div>
+        <div class="game-engine">Tech: C++, Objective-C++, JAVA, Android NDK, Unity 4</div>
    </div><!--//upper-row-->
 
    <p><i><u>Unity Development</u></i></p>

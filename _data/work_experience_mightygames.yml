@@ -9,12 +9,12 @@ mightygames:
   
    <div class="upper-row">
         <p class="game-title">Game Title: Final Fantasy Grandmasters</p>
-        <div class="game-engine">Engine: Unity 5</div>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
         <div class="game-desc">A fantasy rpg game</div>
-        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
+        <div class="game-engine">Tech: Python, Maya, Objective-C++, C#, Unity 5</div>
    </div><!--//upper-row-->
 
    <p>** Final Fantasy Grandmasters project and staff transferred from Crooz to Mighty Games. **</p>
