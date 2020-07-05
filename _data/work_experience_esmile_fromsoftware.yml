@@ -15,8 +15,13 @@ fromsoftware:
 
    <div class="upper-row">
         <div class="game-desc">Action role playing game</div>
-        <div class="game-engine">Tech: C++, MFC, AlienBrain, 3D Studio Max 2008</div>
+        <div class="game-teamsize">Team Size: 100+ </div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, MFC, AlienBrain, 3D Studio Max 2008.</span>
+   </p>
 
    <p><i><u>Tool Development</u></i></p>
    <p>

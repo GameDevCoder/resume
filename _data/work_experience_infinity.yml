@@ -14,8 +14,13 @@ infinity:
 
    <div class="upper-row">
         <div class="game-desc">Fishing simulation game</div>
-        <div class="game-engine">Tech: C++, PSP Dev Tool</div>
+        <div class="game-teamsize">Team Size: 3 members</div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, PSP Dev Tool.</span>
+   </p>
 
    <p><i><u>Platform Porting Work</u></i></p>
    <p>

@@ -14,11 +14,12 @@ hudson:
 
    <div class="upper-row">
         <div class="game-desc">Massively Multiplayer Online RPG game</div>
+        <div class="game-teamsize">Team Size: 30 members</div>
    </div><!--//upper-row-->
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point"> C++, MFC, Visual Studio, DirectX8/9, 3D Studio Max 4/5</div>.</span>
+       <span class="bullet-point"> C++, MFC, Visual Studio, DirectX8/9, 3D Studio Max 4/5.</span>
    </p>
 
    <p><i><u>Art Pipeline Work</u></i></p>

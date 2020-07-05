@@ -15,8 +15,13 @@ monolith:
 
    <div class="upper-row">
         <div class="game-desc">Calamity themed action game</div>
-        <div class="game-engine">Tech: C++, Visual Studio, Havok Physics</div>
+        <div class="game-teamsize">Team Size: 60 members</div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, Visual Studio, Havok Physics.</span>
+   </p>
 
    <p><i><u>Car Physics Programming</u></i></p>
    <p>

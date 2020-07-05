@@ -13,8 +13,13 @@ cygames:
 
    <div class="upper-row">
         <div class="game-desc">A third person action rpg game.</div>
-         <div class="game-engine">Tech: Python, Maya, C++, Unreal Engine 4</div>
+        <div class="game-teamsize">Team Size: </div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Python, Maya, C++, Unreal Engine 4</span>
+   </p>
 
    <p><i><u>Art Pipeline Tools Development</u></i></p>
    <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
@@ -53,12 +58,18 @@ cygames:
    
    <div class="upper-row">
         <p class="game-title">Game Title : Anubis Zone of the Enders - M∀RS</p>
+        <div class="game-platform">Platforms: Playstation PS4</div>  
    </div><!--//upper-row-->
 
    <div class="upper-row">
         <div class="game-desc">A mecha-style third person action game</div>
-        <div class="game-platform">Platforms: Playstation PS4</div>  
+        <div class="game-teamsize">Team Size: 40</div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Excel, Custom Localization Tools.</span>
+   </p>
    
    <p><i><u>Localization Work</u></i></p>
    <p>

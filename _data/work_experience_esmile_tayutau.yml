@@ -15,8 +15,13 @@ tayutau:
 
    <div class="upper-row">
         <div class="game-desc">A Final Fantasy series rpg game</div>
-        <div class="game-engine">Tech: C++, Objective-C++, JAVA, Android NDK, Unity 4</div>
+        <div class="game-teamsize">Team Size: 30 members</div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, Objective-C++, JAVA, Android NDK, Unity 4.</span>
+   </p>
 
    <p><i><u>Unity Development</u></i></p>
    <div>Middleware</div>

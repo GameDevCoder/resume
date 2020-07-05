@@ -13,8 +13,13 @@ crooz:
 
    <div class="upper-row">
         <div class="game-desc">A fantasy rpg game</div>
-        <div class="game-engine">Tech: Python, Maya, C++, C#, Unity 4/5</div>
+        <div class="game-teamsize">Team Size: 20 members</div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Python, Maya, C++, C#, Unity 4/5.</span>
+   </p>
 
    <p><i><u>Art Pipeline Tools Development</u></i></p>
    <div> Maya </div>
@@ -72,13 +77,18 @@ crooz:
    
    <div class="upper-row">
         <p class="game-title">Game Title: ACR Drift</p>
-        <div class="game-engine">Tech: C#, Unity 4</div>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
         <div class="game-desc">A car drift racing game</div>
-        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
+        <div class="game-teamsize">Team Size: 10 members</div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point"> C#, Unity 4.</span>
+   </p>
    
    <p><i><u>UI Development</u></i></p>
    <p>

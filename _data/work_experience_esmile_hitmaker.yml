@@ -15,8 +15,13 @@ hitmaker:
 
    <div class="upper-row">
         <div class="game-desc">Action role playing game</div>
-        <div class="game-engine">Tech: C++, PS3 Dev Kit, GCM API</div>
+        <div class="game-teamsize">Team Size: 6 members </div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, PS3 Dev Kit, GCM Graphics API.</span>
+   </p>
 
    <p><i><u>Graphics Programming Work</u></i></p>
    <p>

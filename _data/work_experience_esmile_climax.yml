@@ -15,8 +15,13 @@ climax:
 
    <div class="upper-row">
         <div class="game-desc">Action role playing game</div>
-        <div class="game-engine">Tech: C++, DS Dev Kit</div>
+        <div class="game-teamsize">Team Size: 5 members</div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, DS Dev Kit.</span>
+   </p>
 
    <p><i><u>Framework Development</u></i></p>
    <p>

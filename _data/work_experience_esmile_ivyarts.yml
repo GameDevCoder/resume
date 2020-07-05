@@ -15,8 +15,14 @@ ivyarts:
 
    <div class="upper-row">
         <div class="game-desc">Development of in-house tools</div>
+        <div class="game-teamsize">Team Size: </div>
         <div class="game-engine">Tech: C++</div>
    </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">.</span>
+   </p>
 
    <p><i><u>3D CG Cut-Scene Tool</u></i></p>
    <p>
