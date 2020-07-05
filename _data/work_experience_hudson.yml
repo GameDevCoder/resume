@@ -14,8 +14,9 @@ hudson:
 
    <div class="upper-row">
         <div class="game-desc">Massively Multiplayer Online RPG game</div>
-        <div class="game-engine">Tech: C++, MFC, Visual Studio, DirectX8/9, 3D Studio Max 4/5</div>
    </div><!--//upper-row-->
+   
+   <div class="game-engine">Tech: C++, MFC, Visual Studio, DirectX8/9, 3D Studio Max 4/5</div>
 
    <p><i><u>Art Pipeline Work</u></i></p>
    <p>
