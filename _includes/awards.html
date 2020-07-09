@@ -6,11 +6,16 @@
   {% if mainpage.enable_awards %}
   <section class="section awards-section">
     <h2 class="section-title">
+      <!--
       <span class="fa-stack fa-xs">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-award fa-stack-1x fa-inverse"></i>
       </span>
-      Awards
+    -->
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-award fa-stack-2x"></i>
+    </span>
+      Work Awards
     </h2>
 
     {% for achievement in awards %}
@@ -30,7 +35,7 @@
         
       </div><!--//meta-->
 
-      {% if award.details %}
+      {% if achievement.details %}
       <div class="details">
         {{ achievement.details | markdownify }}
       </div><!--//details-->
