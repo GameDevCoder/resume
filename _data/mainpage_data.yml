@@ -2,9 +2,12 @@ mainpage:
   enable_career_profile: true
   enable_career_objective: true
   enable_education: true
-  enable_experiences: true
-  enable_projects: false
-  enable_publications: false
-  enable_skills: true
   enable_language: false
   enable_interests: true
+  enable_awards: true
+  enable_skills: true
+  enable_projects: false
+  enable_experiences: true
+  enable_publications: false
+  
+  
