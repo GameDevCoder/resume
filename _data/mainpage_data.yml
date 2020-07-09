@@ -3,7 +3,7 @@ mainpage:
   enable_career_objective: true
   enable_education: true
   enable_language: false
-  enable_interests: true
+  enable_interests: false
   enable_awards: true
   enable_skills: true
   enable_projects: false
