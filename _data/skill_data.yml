@@ -21,6 +21,10 @@ skills:
       title: "Game Engines"
       desc: "Unity 4 / 5 / 2017, Unreal Engine 4"
       level: 0
+    - Platforms: 
+      title: "Development Platforms"
+      desc: "Windows, Mac, iPhone, Android, Playstation PS3 / PS4 / PSP, Nintendo Wii / DS, XBox"
+      level: 0
     - API: 
       title: "API"
       desc: "Microsoft: DirectX 8 ~ 9, Khronos Group: OpenGL / GLES 1x ~ 3x"
@@ -33,7 +37,4 @@ skills:
       title: "Art Tool Programming"
       desc: "Maya 2015 ~ 2019, Photoshop CC 2014 ~ 2017, Studio Max 4 / 5 / 2008"
       level: 0
-    - Platforms: 
-      title: "Development Platforms"
-      desc: "Windows, Mac, iPhone, Android, Playstation PS3 / PS4 / PSP, Nintendo Wii / DS, XBox"
-      level: 0
+    

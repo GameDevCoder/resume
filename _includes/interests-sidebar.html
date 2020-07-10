@@ -19,8 +19,15 @@
           <li>{{ interest.title }}</li>
           {% endif %}
           
+          <!--
           {% if interest.desc %}
           <li>{{% interest.desc %}}</li>
+          {% endif %}
+          -->
+          {% if interest.details %}
+          <div class="details">
+          {{ interest.details | markdownify }}
+          </div><!--//details-->
           {% endif %}
     
         {% endfor %}
