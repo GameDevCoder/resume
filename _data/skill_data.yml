@@ -3,19 +3,19 @@ skills:
   skillsets: 
     - Programming: 
       title: "Programming"
-      desc: "C/C++, C#, Objective-C/C++, Python, Java/Javascript, YAML, SQL, HTML5, CSS, PHP"
+      desc: "C/C++ (10 years), C# (5 years), Objective-C/C++ (7 years), Java (7 years), Python (5 years), YAML (2 years)"
+      level: 0
+    - Web Programming: 
+      title: "Web Programming"
+      desc: "HTML / CSS / Javascript / PHP (1 year)"
       level: 0
     - Database: 
-      title: "Database"
-      desc: "Postgresql (Server, Client Apps)"
+      title: "Database Programming"
+      desc: "Postgresql: Server / Web Apps (1 year)"
       level: 0
     - VersionControl: 
       title: "Version Control"
       desc: "Perforce, Github Enterprise, Git"
-      level: 0
-    - Platforms: 
-      title: "Platforms"
-      desc: "Windows, Mac, iPhone, Android, Playstation PS3 / PS4 / PSP, Nintendo Wii / DS, XBox"
       level: 0
     - GameEngines: 
       title: "Game Engines"
@@ -32,4 +32,8 @@ skills:
     - ArtTools: 
       title: "Art Tool Programming"
       desc: "Maya 2015 ~ 2019, Photoshop CC 2014 ~ 2017, Studio Max 4 / 5 / 2008"
+      level: 0
+    - Platforms: 
+      title: "Development Platforms"
+      desc: "Windows, Mac, iPhone, Android, Playstation PS3 / PS4 / PSP, Nintendo Wii / DS, XBox"
       level: 0

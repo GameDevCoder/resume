@@ -19,28 +19,41 @@ personal-contact:
 personal-interests:
     title: Activities & Interests
     intro: >-
-        You can list your hobbies and activities in this section.
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et
-        ligula in nunc bibendum fringilla a eu lectus.
+        The following are some of my interests:
     activity-list:
-    - title: Movies & Games
+    - title: Games
       link:
       desc: 'Genres: SF, Fantasy, Action, Puzzles & Mysteries'
       details: >-
-        Lorem ipsum dolor sit amet
+        <p>
+        <span class="bullet-point"> Action: Tomb Raider series.</span>
+        <span class="bullet-point"> Fighting: Street Fighter V.</span>
+        <span class="bullet-point"> RTS: Command & Conquer series.</span>
+        <span class="bullet-point"> Shooting: MechWarrior series.</span>
+        </p>
     - title: Technology
       link:
       desc: 'PC Tech, 3D Graphics, Programming, AI and Machine Learning'
       details: >-
-        Lorem ipsum dolor sit amet
+        <p>
+        <span class="bullet-point"> PC Hardware.</span>
+        <span class="bullet-point"> 3D Graphics.</span>
+        <span class="bullet-point"> AI / Machine Learning</span>
+        </p>
     - title: Creative Hobby
       link:
       desc: 'Plastic Models, Papercraft'
       details: >-
-        Lorem ipsum dolor sit amet
+        <p>
+        <span class="bullet-point"> Plastic Models (SF/Anime Vehicles).</span>
+        <span class="bullet-point"> Paper Craft.</span>
+        </p>
     - title: Sports
       link:
-      desc: 'Baseball, Hockey, Skiing, Archery'
+      desc: 'Baseball, Hockey, Archery'
       details: >-
-        Lorem ipsum dolor sit amet
+        <p>
+        <span class="bullet-point"> Baseball, Hockey.</span>
+        <span class="bullet-point"> Archery.</span>
+        </p>
 
