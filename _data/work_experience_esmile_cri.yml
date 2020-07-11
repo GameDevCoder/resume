@@ -6,7 +6,7 @@ cri:
   link: https://social-drum.cloudvent.net/clients/cri/
   company_url: https://www.cri-mw.co.jp/
   details: >-
-   ** Contracted out from staffing company ESmile **
+   ** Contracted out to CRI Middleware from staffing company ESmile **
 
    <div class="upper-row">
         <p class="game-title">Project: Cloudia</p>
@@ -27,7 +27,7 @@ cri:
    <p>
        <span class="bullet-point"> Implemented pdf document annotation and hilighting.</span>
        <span class="bullet-point"> Maintenance and upgrading of client side SQL functions </span>
-       <span class="bullet-point"> Tested high-volume PDF document distribution from server to client app </span>
+       <span class="bullet-point"> Tested high-volume PDF document streaming from server to client app </span>
    </p>
    
    

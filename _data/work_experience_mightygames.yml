@@ -1,7 +1,7 @@
 mightygames:
   role: Lead Technical Artist
   time: 2016/11 ~ 2017/7
-  company: 'Mighty Games (previously C&M Games KK)'
+  company: 'Mighty Games (previously C&M Games)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/mightygames/
   company_url:
@@ -38,8 +38,8 @@ mightygames:
        <span class="indent">(All Unity tools I developed while at the previous company, Crooz)</span>
    </p>
 
-   <div>Post Effects</div>
+   <div>Post Effect Development</div>
    <p>
-        <span class="bullet-point"> Post Lighting - Created bloom-like model lighting effects to improve game's visual appeal.</span>
+        <span class="bullet-point"> Post Lighting Effect - Created unique bloom-like model lighting to improve game's visual appeal.</span>
    </p>
    

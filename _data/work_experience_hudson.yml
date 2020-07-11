@@ -32,27 +32,28 @@ hudson:
    <p>
        <span class="bullet-point"> Worked on DirectX 8 fixed function shader programming.</span>
        <span class="bullet-point"> Upgraded the graphics engine to DirectX 9.</span>
-       <span class="bullet-point"> Reprogrammed all DX8 fixed function shaders with shader assembler code.</span>
-       <span class="bullet-point"> Upgraded the shader system to use Nvidia Cg shaders.</span>
+       <span class="bullet-point"> Reprogrammed all shaders with shader assembler code.</span>
+       <span class="bullet-point"> Upgraded the shader system and all assembler shaders to Nvidia Cg.</span>
+       <span class="bullet-point"> Research and development of 3D graphics effects.</span>
    </p>
 
    <p><i><u>Shader Programming Work</u></i></p>
    <p>
        <span class="bullet-point"> GPU Skinning for character animation.</span>
        <span class="bullet-point"> Created Diffuse and specular lighting shaders.</span>
-       <span class="bullet-point"> Added support for 1 directional light and 4 point lights.</span>
+       <span class="bullet-point"> Added support for dynamic lighting (1 directional light, 4 point lights).</span>
    </p>
 
    <p><i><u>Character Animation Programming Work</u></i></p>
    <p>
+       <span class="bullet-point"> Performed updates to character animation system.</span>
        <span class="bullet-point"> Implemented morph animation for character facial animation.</span>
    </p>
 
    <p><i><u>Character Equipment System Work</u></i></p>
    <p>
-       <span class="bullet-point"> Updated the character equipment system and maintained the equipment database.</span>
-       <span class="bullet-point"> Added support for swapping model equipment parts.</span>
-       <span class="bullet-point"> Included support for model attachements.</span>
+       <span class="bullet-point"> Updated the character equipment system to include support for new model parts and attachments.</span>
+       <span class="bullet-point"> Maintained the character equipment database.</span>
    </p>
 
 

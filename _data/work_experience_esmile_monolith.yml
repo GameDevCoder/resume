@@ -6,7 +6,7 @@ monolith:
   link: https://social-drum.cloudvent.net/clients/monolith/
   company_url: 
   details: >-
-   ** Contracted out from staffing company ESmile **
+   ** Contracted out to Monolith from staffing company ESmile **
    
    <div class="upper-row">
         <p class="game-title">Project: Disaster - Day of Crisis</p>
@@ -25,12 +25,12 @@ monolith:
 
    <p><i><u>Car Physics Programming</u></i></p>
    <p>
-       <span class="bullet-point"> Implemented Havok Physics for in-game vehicles .</span>
-       <span class="bullet-point"> Rigorously tested in-game car behavior and fine-tuned physics parameters.</span>
+       <span class="bullet-point"> Implemented Havok Physics for in-game vehicles, fine-tuned in-game car physics behavior.</span>
    </p>
 
    <p><i><u>Game Engine Updates</u></i></p>
    <p> 
+       <span class="bullet-point"> Performed general updates and maintenance of game engine.</span>
        <span class="bullet-point"> Implemented Nintendo guidelines for UI and Wiimote usage.</span>
        <span class="bullet-point"> Added support for async data loading from disc.</span>
    </p>

@@ -1,5 +1,5 @@
 personal-profile:
-  name: My Name Here
+  name: Bret Cowart
   tagline: Experienced Veteran </br> Game Developer
   avatar: war_beagle.png
   
@@ -7,11 +7,11 @@ personal-contact:
   email: gamedevcoder@protonmail.com
   phone:
   website: gamedevcoder.github.io/portfolio
-  linkedin: gamedevcoder
-  github: gamedevcoder
+  linkedin:
+  github: github.com/gamedevcoder
   gitlab:
   bitbucket:
-  twitter: gamedevcoder1
+  twitter: twitter.com/gamedevcoder1
   stack-overflow:
   codewars:
   goodreads:

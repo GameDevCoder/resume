@@ -6,7 +6,7 @@ lecre:
   link: https://social-drum.cloudvent.net/clients/lucre/
   company_url: https://lecre.jp/
   details: >-
-   ** Contracted out from staffing company ESmile **
+   ** Contracted out to Lecre from staffing company ESmile **
    
    <div class="upper-row">
         <p class="game-title">Project: QR Code Scanner</p>
@@ -20,7 +20,7 @@ lecre:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">Objective-C, iOS SDK, JAVA, Android SDK.</span>
+       <span class="bullet-point">Objective-C, XCode, iOS SDK, JAVA, Eclipse, Android SDK.</span>
    </p>
 
    <p><i><u>App Development</u></i></p>
@@ -78,7 +78,7 @@ lecre:
 
    <p><i><u>Chat Client Development</u></i></p>
    <p>
-       <span class="bullet-point"> Developed the chat application for iPhone.</span>
+       <span class="bullet-point"> Developed chat client application.</span>
        <span class="bullet-point"> Helped test and debug the chat client for iPhone and Android.</span>
    </p>
 
