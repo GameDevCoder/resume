@@ -26,12 +26,13 @@ skills:
       desc: "Windows, Mac, iPhone, Android, Playstation PS3 / PS4 / PSP, Nintendo Wii / DS, XBox"
       level: 0
     - API: 
-      title: "API"
-      desc: "Microsoft: DirectX 8 ~ 9, Khronos Group: OpenGL / GLES 1x ~ 3x"
+      title: "Graphics Programming"
+      desc: "API: Microsoft: DirectX 8 ~ 9, Khronos Group: OpenGL / GLES 1x ~ 3x"<br/>
+            "Shaders: Cg / CgFX, HLSL, Unity Shaders, Unreal Material Shaders"<br/>
       level: 0
     - Shaders: 
       title: "Shaders"
-      desc: "Cg / CgFX, HLSL, Unity Shaders, Unreal Material Shaders"
+      desc: "Shaders: Cg / CgFX, HLSL, Unity Shaders, Unreal Material Shaders"
       level: 0
     - ArtTools: 
       title: "Art Tool Programming"
