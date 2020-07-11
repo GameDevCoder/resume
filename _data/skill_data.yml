@@ -27,8 +27,9 @@ skills:
       level: 0
     - API: 
       title: "Graphics Programming"
-      desc: "API: Microsoft: DirectX 8 ~ 9, Khronos Group: OpenGL / GLES 1x ~ 3x"<br/>
-            "Shaders: Cg / CgFX, HLSL, Unity Shaders, Unreal Material Shaders"<br/>
+      desc: >-
+       <span>"API: Microsoft: DirectX 8 ~ 9, Khronos Group: OpenGL / GLES 1x ~ 3x"</span>
+       <span>"Shaders: Cg / CgFX, HLSL, Unity Shaders, Unreal Material Shaders"</span>
       level: 0
     - Shaders: 
       title: "Shaders"
