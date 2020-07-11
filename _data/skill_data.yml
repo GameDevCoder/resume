@@ -7,7 +7,10 @@ skills:
       level: 0
     - Platforms: 
       title: "Development Platforms"
-      desc: "Windows, Mac, iPhone, Android, Playstation PS3 / PS4 / PSP, Nintendo Wii / DS, XBox"
+      desc: >-
+       <span>"Desktop: Windows, Mac"</span><br/>
+       <span>Mobile: iPhone, Android</span><br/>
+       <span>Game Console: Playstation PS3 / PS4 / PSP, Nintendo Wii / DS, XBox</span><br/>
       level: 0
     - Programming: 
       title: "Programming"
