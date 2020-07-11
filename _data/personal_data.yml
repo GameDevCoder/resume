@@ -26,10 +26,11 @@ personal-interests:
       desc: 'Genres: SF, Fantasy, Action, Puzzles & Mysteries'
       details: >-
         <p>
-        <span class="bullet-point"> Action: Tomb Raider series.</span>
-        <span class="bullet-point"> Fighting: Street Fighter V.</span>
-        <span class="bullet-point"> RTS: Command & Conquer series.</span>
-        <span class="bullet-point"> Shooting: MechWarrior series.</span>
+        <span class="bullet-point"> Command & Conquer series.</span>
+        <span class="bullet-point"> Tomb Raider series.</span>
+        <span class="bullet-point"> Street Fighter series.</span>
+        <span class="bullet-point"> Star Wars series.</span>
+        <span class="bullet-point"> MechWarrior series.</span>
         </p>
     - title: Technology
       link:
@@ -45,15 +46,14 @@ personal-interests:
       desc: 'Plastic Models, Papercraft'
       details: >-
         <p>
-        <span class="bullet-point"> Plastic Models (SF/Anime Vehicles).</span>
-        <span class="bullet-point"> Paper Craft.</span>
+        <span class="bullet-point">Plastic Models.</span>
+        <span class="bullet-point">Paper Craft.</span>
         </p>
     - title: Sports
       link:
       desc: 'Baseball, Hockey, Archery'
       details: >-
         <p>
-        <span class="bullet-point"> Baseball, Hockey.</span>
-        <span class="bullet-point"> Archery.</span>
+        <span class="bullet-point"> Baseball, Hockey, Archery.</span>
         </p>
 
