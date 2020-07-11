@@ -54,6 +54,8 @@ personal-interests:
       desc: 'Baseball, Hockey, Archery'
       details: >-
         <p>
-        <span class="bullet-point"> Baseball, Hockey, Archery</span>
+        <span class="bullet-point">Baseball</span>
+        <span class="bullet-point">Hockey</span>
+        <span class="bullet-point">Archery</span>
         </p>
 
