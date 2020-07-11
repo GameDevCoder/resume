@@ -1,7 +1,7 @@
 personal-profile:
   name: Bret Cowart
   tagline: Experienced Veteran </br> Game Developer
-  avatar: profile_dummy_blue.png
+  avatar:
   
 personal-contact:
   email: gamedevcoder@protonmail.com
