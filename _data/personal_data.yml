@@ -6,7 +6,9 @@ personal-profile:
 personal-contact:
   email: gamedevcoder@protonmail.com
   phone:
-  website: gamedevcoder.github.io/portfolio
+  website: >-
+   gamedevcoder.github.io/portfolio
+   gamedevcoder.github.io/resume
   linkedin:
   github: github.com/gamedevcoder
   gitlab:
