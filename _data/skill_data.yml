@@ -10,7 +10,7 @@ skills:
       desc: >-
        <span>Desktop: Windows, Mac</span><br/>
        <span>Mobile: iPhone, Android</span><br/>
-       <span>Game Console: Playstation PS3 / PS4 / PSP, Nintendo Wii / DS, XBox</span><br/>
+       <span>Game Console: Playstation (PS3, PS4, PSP), Nintendo (Wii, DS), XBox</span><br/>
       level: 0
     - Programming: 
       title: "Programming"
@@ -19,20 +19,20 @@ skills:
     - API: 
       title: "Graphics Programming"
       desc: >-
-        <span>API: Microsoft - DirectX 8/9, Khronos Group - OpenGL / GLES 1x ~ 3x</span><br/>
-        <span>Shaders: Cg / CgFX, HLSL, Unity Shaders, Unreal Material Shaders</span><br/>
+        <span>API: Microsoft DirectX (8,9), OpenGL, GLES</span><br/>
+        <span>Shaders: Cg, CgFX, HLSL, Unity Shaders, Unreal Material Shaders</span><br/>
       level: 0
     - ArtTools: 
       title: "Art Tools Programming"
-      desc: "Maya 2015 ~ 2019, Photoshop CC 2014 ~ 2017, Studio Max 4 / 5 / 2008"
+      desc: "Maya (2015 to 2019), Photoshop CC (2014 to 2017), Studio Max (4, 5, 2008)"
       level: 0
     - Web Programming: 
       title: "Web Programming"
-      desc: "HTML / CSS / Javascript / PHP (1 year)"
+      desc: "HTML, CSS, Javascript, PHP (1 year)"
       level: 0
     - Database: 
       title: "Database Programming"
-      desc: "Postgresql: Server / Web Apps (1 year)"
+      desc: "Postgresql: Server, Web Apps (1 year)"
       level: 0
     - VersionControl: 
       title: "Version Control"
