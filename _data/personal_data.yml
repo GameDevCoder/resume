@@ -47,11 +47,10 @@ personal-interests:
         </p>
     - title: Creative Hobby
       link:
-      desc: 'Plastic Models, Papercraft'
+      desc: 'Plastic Models'
       details: >-
         <p>
-        <span class="bullet-point">Plastic Models (Macross Valykyrie)</span>
-        <span class="bullet-point">Paper Craft</span>
+        <span class="bullet-point">Plastic Models (Macross Valkyrie)</span>
         </p>
     - title: Sports
       link:
