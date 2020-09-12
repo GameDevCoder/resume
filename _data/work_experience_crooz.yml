@@ -24,7 +24,7 @@ crooz:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">Python, Maya, C++, C#, Unity 4/5</span>
+       <span class="bullet-point">Python, Maya, C++, C#, FBX SDK, Unity (4,5), NGUI</span>
    </p>
 
    <p><i><u>Art Pipeline Tools Development</u></i></p>
@@ -93,7 +93,7 @@ crooz:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point"> C#, Unity 4</span>
+       <span class="bullet-point"> C#, Unity 4, NGUI</span>
    </p>
    
    <p><i><u>UI Development</u></i></p>
