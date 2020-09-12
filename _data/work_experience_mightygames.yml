@@ -1,7 +1,7 @@
 mightygames:
-  role: Lead Technical Artist
+  role: Unity Developer, Lead Technical Artist
   time: 2016/11 ~ 2017/7
-  company: 'Mighty Games (previously C&M Games)'
+  company: 'Mighty Games (Full-time)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/mightygames/
   company_url:
@@ -17,7 +17,7 @@ mightygames:
         <div class="game-teamsize">Team Size: 20 members</div>
    </div><!--//upper-row-->
 
-   <p>** Final Fantasy Grandmasters project and staff transferred from Crooz to Mighty Games. **</p>
+   <p>** Note: Final Fantasy Grandmasters project and staff were transferred from Crooz to Mighty Games. **</p>
 
    <p><i><u>Tech</u></i></p>
    <p>
@@ -40,6 +40,6 @@ mightygames:
 
    <div>Post Effect Development</div>
    <p>
-        <span class="bullet-point"> Post Lighting Effect - Created unique, bloom-like model lighting effect to improve game's visual appeal.</span>
+        <span class="bullet-point"> Post Effects - Created post lighting and glow effects to improve the game's visual appeal.</span>
    </p>
    

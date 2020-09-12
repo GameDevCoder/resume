@@ -1,12 +1,11 @@
 ivyarts:
   role: Tools Developer
   time: 2009/10/ ~ 2009/11/
-  company: 'ESmile - Ivy Arts'
+  company: 'Ivy Arts (Contract)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/esmile/
   company_url: 
   details: >-
-   ** Contracted out to Ivy Arts from staffing company ESmile **
    
    <div class="upper-row">
         <p class="game-title">Project: Tool Development</p>
@@ -25,5 +24,5 @@ ivyarts:
 
    <p><i><u>3D CG Cut-Scene Tool</u></i></p>
    <p>
-       <span class="bullet-point"> Implemented improvments and bug fixes for a 3D cut-scene timeline editor.</span>
+       <span class="bullet-point"> Implemented improvments and bug fixes for a 3D scene timeline editor.</span>
    </p>

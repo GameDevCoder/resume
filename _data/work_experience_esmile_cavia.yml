@@ -1,12 +1,11 @@
 cavia:
   role: Effects Programmer
   time: 2009/07/01 ~ 2009/08/28
-  company: 'ESmile - Cavia'
+  company: 'Cavia (Contract)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/cavia/
   company_url: 
   details: >-
-   ** Contracted out to Cavia from staffing company ESmile **
 
    <div class="upper-row">
         <p class="game-title">Project: Nier Gestalt</p>
@@ -25,5 +24,5 @@ cavia:
 
    <p><i><u>Effects Development</u></i></p>
    <p>
-       <span class="bullet-point"> Created a procedural trail effect using math splines and cylinders.</span>
+       <span class="bullet-point"> Created trail effects using math splines and procedural geometry.</span>
    </p>

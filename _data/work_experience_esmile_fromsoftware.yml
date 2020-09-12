@@ -1,12 +1,11 @@
 fromsoftware:
   role: Tools Programmer
   time: 2007/10/01 ~ 2008/02/28
-  company: 'ESmile - FromSoftware'
+  company: 'FromSoftware (Contract)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/hitmaker/
   company_url: 
   details: >-
-   ** Contracted out to FromSoftware from staffing company ESmile **
    
    <div class="upper-row">
         <p class="game-title">Project: Demon's Souls</p>
@@ -25,7 +24,7 @@ fromsoftware:
 
    <p><i><u>Tool Development</u></i></p>
    <p>
-       <span class="bullet-point"> Created plugins to add custom assets to the AlienBrain version control system.</span>
+       <span class="bullet-point"> Created plugins for the AlienBrain version control system to handle custom game assets.</span>
    </p>
 
    <p><i><u>Art Pipeline Consultant</u></i></p>

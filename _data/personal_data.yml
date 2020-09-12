@@ -4,16 +4,15 @@ personal-profile:
   avatar:
   
 personal-contact:
-  email: gamedevcoder@protonmail.com
+  email: gamedevcoder@pm.me
   phone:
-  website: >-
-   gamedevcoder.github.io/portfolio
-   gamedevcoder.github.io/resume
-  linkedin:
-  github: github.com/gamedevcoder
+  website: gamedevcoder.github.io/portfolio
+  resume: gamedevcoder.github.io/resume
+  linkedin: bc-gamedev-coder
+  github: 
   gitlab:
   bitbucket:
-  twitter: twitter.com/gamedevcoder1
+  twitter: 
   stack-overflow:
   codewars:
   goodreads:

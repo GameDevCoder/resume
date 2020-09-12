@@ -1,12 +1,11 @@
 monolith:
   role: Game Programmer
   time: 2006/02/01 ~ 2007/01/28
-  company: 'ESmile - Monolith Software'
+  company: 'Monolith Software (Contract)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/monolith/
   company_url: 
   details: >-
-   ** Contracted out to Monolith from staffing company ESmile **
    
    <div class="upper-row">
         <p class="game-title">Project: Disaster - Day of Crisis</p>
@@ -25,7 +24,7 @@ monolith:
 
    <p><i><u>Car Physics Programming</u></i></p>
    <p>
-       <span class="bullet-point"> Implemented Havok Physics for in-game vehicles, fine-tuned in-game car physics behavior.</span>
+       <span class="bullet-point"> Implemented Havok Physics for in-game vehicles and fine-tuned car physics behavior.</span>
    </p>
 
    <p><i><u>Game Engine Updates</u></i></p>
