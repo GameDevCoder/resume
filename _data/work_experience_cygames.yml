@@ -35,10 +35,15 @@ cygames:
        <span class="bullet-point"> Naming: Added tests to verify models, materials and textures comply with naming rules</span>
    </p>
    
-   <div>Maya Tools - Took over and improved internal tools</div>
+   <div>In-house Tools - Took over and improved existing tools</div>
    <p>
-       <span class="bullet-point"> Shotgun Integration - Added UI to view and change a model's Shotgun task status</span>
        <span class="bullet-point"> Performance Optimizations - Substantially improved sluggish PySide2 UI elements</span>
+       <span class="bullet-point"> Autodesk Shotgun Integration - Added UI to view and change a model's Shotgun task status</span>
+   </p>
+
+   <div>Perforce</div>
+   <p>
+       <span class="bullet-point"> Remote Work - Built a Maya compatible SSL Perforce Python binary to enable Perforce server access</span>
    </p>
    
    <p><i><u>Unreal Engine Work</u></i></p>
