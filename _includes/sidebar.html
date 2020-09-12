@@ -13,6 +13,10 @@
         {% if profile.name %}
         <h1 class="name">{{ profile.name }}</h1>
         {% endif %}
+
+        {% if profile.location %}
+        <h2 class="name">{{ profile.location }}</h2>
+        {% endif %}
     
         {% if profile.tagline %}
         <h3 class="tagline">{{ profile.tagline }}</h3>
