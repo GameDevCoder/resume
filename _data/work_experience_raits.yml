@@ -1,7 +1,7 @@
 raits:
   role: Game Programmer
   time: 2001/01/01 ~ 2001/11/28
-  company: 'RAITS'
+  company: 'RAITS (Full-time)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/raits/
   company_url:
@@ -24,7 +24,7 @@ raits:
 
    <p><i><u>Cloth Animation Work</u></i></p>
    <p>
-       <span class="bullet-point"> Research, development and testing of 3D cloth animation methods on XBox.</span>
+       <span class="bullet-point"> Research and development of 3D cloth animation methods.</span>
    </p>
    
 

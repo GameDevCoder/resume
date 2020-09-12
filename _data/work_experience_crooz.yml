@@ -1,14 +1,14 @@
 crooz:
-  role: Lead Technical Artist
+  role: Unity Developer, Lead Technical Artist
   time: 2014/01 ~ 2016/10
-  company: 'Crooz'
+  company: 'Crooz (Full-time)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/crooz/
   details: >-
   
    <div class="upper-row">
         <p class="game-title">Project: Final Fantasy Grandmasters</p>
-        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
+        <div class="game-platform">Platforms: Mobile (iPhone, Android)</div>
    </div><!--//upper-row-->
 
    <div class="upper-row">
@@ -48,7 +48,7 @@ crooz:
 
    <div>Meshes</div>
    <p>
-       <span class="bullet-point"> Rendering Optimizations - Customized Mesh Baker to compress <u>animated</u> models and reduce draw calls.</span>
+       <span class="bullet-point"> Rendering Optimizations - Customized Mesh Baker source to compress <u>animated</u> models and reduce draw calls.</span>
    </p>
 
    <div>Shaders</div>

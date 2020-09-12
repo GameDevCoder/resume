@@ -1,12 +1,11 @@
 hitmaker:
   role: Graphics Programmer
   time: 2008/04/01 ~ 2009/06/28
-  company: 'ESmile - Hitmaker'
+  company: 'Hitmaker (Contract)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/hitmaker/
   company_url: 
   details: >-
-   ** Contracted out to Hitmaker from staffing company ESmile **
    
    <div class="upper-row">
         <p class="game-title">Project: Last Rebellion</p>
@@ -25,20 +24,16 @@ hitmaker:
 
    <p><i><u>Graphics Programming Work</u></i></p>
    <p>
-       <span class="bullet-point"> Ugraded the game's rendering system to support advanced shading</span>
-       <span class="bullet-point"> Added support for various model vertex formats.</span>
+       <span class="bullet-point"> Ugraded the game's rendering system to support advanced shading and rendering.</span>
    </p>
 
    <p><i><u>Shader Development</u></i></p>
-   <p> Created the following shaders:
-       <span class="bullet-point"> Blinn/phong lighting.</span>
-       <span class="bullet-point"> Toon shading.</span>
-       <span class="bullet-point"> Normal mapping.</span>
-       <span class="bullet-point"> GPU skinning for character animation.</span>
+   <p>
+       <span class="bullet-point"> Blinn/phong lighting, Toon Shading, GPU Skinning for character animation.</span>
    </p>
 
    <p><i><u>Post Effect Development</u></i></p>
-   <p> Created the following post effects:
-       <span class="bullet-point"> Ink outline effect.</span>
+   <p>
+       <span class="bullet-point"> Character outline effect.</span>
        <span class="bullet-point"> Paint style rendering effect.</span>
    </p>

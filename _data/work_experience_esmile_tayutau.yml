@@ -1,12 +1,11 @@
 tayutau:
-  role: Unity Engineer
+  role: Unity Developer
   time: 2013/10 ~ 2013/11
-  company: 'ESmile - Tayutau'
+  company: 'Tayutau (Contract)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/tayutau/
   company_url: https://tayutau.co.jp/
   details: >-
-   ** Contracted out to Tayutau from staffing company ESmile **
    
    <div class="upper-row">
         <p class="game-title">Project: Final Fantasy Agito</p>
@@ -23,17 +22,11 @@ tayutau:
        <span class="bullet-point">C++, Objective-C++, JAVA, Android NDK, Unity 4.</span>
    </p>
 
-   <p><i><u>Unity Development</u></i></p>
-   <div>Middleware</div>
+   <p><i><u>Unity Plugin Development</u></i></p>
    <p>
-       Implemented Silicon Studio's Motion Portrait for the game:
-       <span class="bullet-point"> Built the motion portrait binary for Android using NDK.</span>
-       <span class="bullet-point"> Built the motion portrait binary for iPhone using Objective-C++.</span>
-       <span class="bullet-point"> Maintained the GLES rendering source code for iPhone and Android platforms.</span>
-   </p>
-
-   <div>Plugins</div>
-   <p>
-       <span class="bullet-point"> Motion Portrait - Created a Unity plugin to use the Motion Portrait binary.</span>
+       Developed a plugin for Silicon Studio's Motion Portrait to animate character faces:
+       <span class="bullet-point"> Implemented the graphics rendering source code for iPhone and Android platforms.</span>
+       <span class="bullet-point"> Built the Motion Portrait binary for iPhone and Android (NDK).</span>
+       <span class="bullet-point"> Created a Unity plugin to use the Motion Portrait binary.</span>
    </p>
    
