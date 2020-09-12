@@ -19,21 +19,21 @@ hitmaker:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">C++, PS3 Dev Kit, GCM Graphics API.</span>
+       <span class="bullet-point">C++, PS3 Dev Kit, GCM Graphics API</span>
    </p>
 
    <p><i><u>Graphics Programming Work</u></i></p>
    <p>
-       <span class="bullet-point"> Ugraded the game's rendering system to support advanced shading and rendering.</span>
+       <span class="bullet-point"> Ugraded the game's rendering system to support advanced shading and rendering</span>
    </p>
 
    <p><i><u>Shader Development</u></i></p>
    <p>
-       <span class="bullet-point"> Blinn/phong lighting, Toon Shading, GPU Skinning for character animation.</span>
+       <span class="bullet-point"> Blinn/phong lighting, Toon Shading, GPU Skinning for character animation</span>
    </p>
 
    <p><i><u>Post Effect Development</u></i></p>
    <p>
-       <span class="bullet-point"> Character outline effect.</span>
-       <span class="bullet-point"> Paint style rendering effect.</span>
+       <span class="bullet-point"> Character outline effect</span>
+       <span class="bullet-point"> Paint style rendering effect</span>
    </p>

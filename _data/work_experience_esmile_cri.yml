@@ -19,12 +19,12 @@ cri:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">Objective-C, XCode, MySQL.</span>
+       <span class="bullet-point">Objective-C, XCode, MySQL</span>
    </p>
 
    <p><i><u>App Development</u></i></p>
    <p>
-       <span class="bullet-point"> Implemented pdf document annotation and hilighting functionality.</span>
+       <span class="bullet-point"> Implemented pdf document annotation and hilighting functionality</span>
        <span class="bullet-point"> Maintenance of client side SQL database functions </span>
        <span class="bullet-point"> Optimization of high volume PDF document streaming from server to client app</span>
    </p>

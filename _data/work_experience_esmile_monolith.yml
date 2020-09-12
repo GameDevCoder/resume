@@ -19,19 +19,19 @@ monolith:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">C++, Visual Studio, Havok Physics.</span>
+       <span class="bullet-point">C++, Visual Studio, Havok Physics</span>
    </p>
 
    <p><i><u>Car Physics Programming</u></i></p>
    <p>
-       <span class="bullet-point"> Implemented Havok Physics for in-game vehicles and fine-tuned car physics behavior.</span>
+       <span class="bullet-point"> Implemented Havok Physics for in-game vehicles and fine-tuned car physics behavior</span>
    </p>
 
    <p><i><u>Game Engine Updates</u></i></p>
    <p> 
-       <span class="bullet-point"> Performed general updates and maintenance of game engine.</span>
-       <span class="bullet-point"> Implemented Nintendo guidelines for UI and Wiimote usage.</span>
-       <span class="bullet-point"> Added support for async data loading from disc.</span>
+       <span class="bullet-point"> Performed general updates and maintenance of game engine</span>
+       <span class="bullet-point"> Implemented Nintendo guidelines for UI and Wiimote usage</span>
+       <span class="bullet-point"> Added support for async data loading from disc</span>
    </p>
 
 

@@ -19,12 +19,12 @@ lecre:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">Objective-C, XCode, iOS SDK, JAVA, Eclipse, Android SDK.</span>
+       <span class="bullet-point">Objective-C, XCode, iOS SDK, JAVA, Eclipse, Android SDK</span>
    </p>
 
    <p><i><u>App Development</u></i></p>
    <p>
-       <span class="bullet-point"> Created the GUI for the app.</span>
+       <span class="bullet-point"> Created the GUI for the app</span>
        <span class="bullet-point"> Implemented the QR scanner with a QR scan library</span>
        <span class="bullet-point"> Tested scanning QR codes with mobile camera from various distances</span>
    </p>
@@ -42,14 +42,14 @@ lecre:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">XCode, iOS SDK, Unity 4.</span>
+       <span class="bullet-point">XCode, iOS SDK, Unity 4</span>
    </p>
 
    <p><i><u>Unity Development</u></i></p>
    <div>AR Work</div>
    <p>
-       <span class="bullet-point"> Implemented the core AR functionality using Qualcomm's Vuforia.</span>
-       <span class="bullet-point"> Tested scanning AR markers to display 3D models at marker location.</span>
+       <span class="bullet-point"> Implemented the core AR functionality using Qualcomm's Vuforia</span>
+       <span class="bullet-point"> Tested scanning AR markers to display 3D models at marker location</span>
    </p>
 
 
@@ -71,8 +71,8 @@ lecre:
 
    <p><i><u>Chat Client Development</u></i></p>
    <p>
-       <span class="bullet-point"> Developed chat client application.</span>
-       <span class="bullet-point"> Helped test and debug the chat client for iPhone and Android.</span>
+       <span class="bullet-point"> Developed chat client application</span>
+       <span class="bullet-point"> Helped test and debug the chat client for iPhone and Android</span>
    </p>
 
    
