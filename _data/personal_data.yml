@@ -4,11 +4,11 @@ personal-profile:
   avatar:
   
 personal-contact:
-  email: gamedevcoder@pm.me
+  email: <br/>gamedevcoder@pm.me
   phone:
   website: gamedevcoder.github.io/portfolio
   resume: gamedevcoder.github.io/resume
-  linkedin: bc-gamedev-coder
+  linkedin: <br/>bc-gamedev-coder
   github: 
   gitlab:
   bitbucket:
@@ -24,14 +24,17 @@ personal-interests:
     activity-list:
     - title: Games
       link:
-      desc: 'Genres: SF, Fantasy, Action, Puzzles & Mysteries'
+      desc: 'Genres: SF, Fantasy, Action, Fighting, Strategy'
       details: >-
-        <p>
+        <p> PC<br/>
         <span class="bullet-point">Command & Conquer series</span>
         <span class="bullet-point">Tomb Raider series</span>
-        <span class="bullet-point">Street Fighter series</span>
-        <span class="bullet-point">Star Wars series</span>
         <span class="bullet-point">MechWarrior series</span>
+        <br/> Arcade <br/>
+        <span class="bullet-point">Street Fighter series</span>
+        <br/> Mobile <br/>
+        <span class="bullet-point">Marvel Contest of Champions</span>
+        <span class="bullet-point">Might & Magic Chess Royale</span>
         </p>
     - title: Technology
       link:
@@ -47,7 +50,7 @@ personal-interests:
       desc: 'Plastic Models, Papercraft'
       details: >-
         <p>
-        <span class="bullet-point">Plastic Models</span>
+        <span class="bullet-point">Plastic Models (Macross Valykyrie)</span>
         <span class="bullet-point">Paper Craft</span>
         </p>
     - title: Sports
