@@ -4,11 +4,11 @@ personal-profile:
   avatar:
   
 personal-contact:
-  email: <br/>gamedevcoder@pm.me
+  email: gamedevcoder@pm.me
   phone:
   website: gamedevcoder.github.io/portfolio
   resume: gamedevcoder.github.io/resume
-  linkedin: <br/>bc-gamedev-coder
+  linkedin: bc-gamedev-coder
   github: 
   gitlab:
   bitbucket:
@@ -49,8 +49,8 @@ personal-interests:
       link:
       desc: 'Plastic Models'
       details: >-
-        <p>
-        <span class="bullet-point">Plastic Models (Macross Valkyrie)</span>
+        <p> Plastic Models<br/>
+        <span class="bullet-point">Macross Valkyrie</span>
         </p>
     - title: Sports
       link:
