@@ -27,15 +27,17 @@ personal-interests:
       link:
       desc: 'Genres: SF, Fantasy, Action, Fighting, Strategy'
       details: >-
-        <p> PC<br/>
-        <span class="bullet-point">Command & Conquer series</span>
+        <p> PC / Console<br/>
+        <span class="bullet-point">Star Wars - Jedi Fallen Order</span>
         <span class="bullet-point">Tomb Raider series</span>
-        <span class="bullet-point">MechWarrior series</span>
-        <br/> Arcade <br/>
+        <span class="bullet-point">Kingdom - New Lands</span>
         <span class="bullet-point">Street Fighter series</span>
+        
         <br/> Mobile <br/>
-        <span class="bullet-point">Marvel Contest of Champions</span>
+        <span class="bullet-point">Genshin Impact</span>
         <span class="bullet-point">Might & Magic Chess Royale</span>
+        <span class="bullet-point">Pacman 256</span>
+        <span class="bullet-point">Tetris</span>
         </p>
     - title: Technology
       link:
